@@ -9,15 +9,15 @@ function App() {
             <li>
               <Link to="/">Home</Link>
             </li>
-            {/*<li>*/}
-            {/*  <Link to="/heatmap">Heatmap charts</Link>*/}
-            {/*</li>*/}
-            {/*<li>*/}
-            {/*  <Link to="/scatter">Scatter charts</Link>*/}
-            {/*</li>*/}
-            {/*<li>*/}
-            {/*  <Link to="/map">Map charts</Link>*/}
-            {/*</li>*/}
+            <li>
+              <Link to="/heatmap">Heatmap charts</Link>
+            </li>
+            <li>
+              <Link to="/scatter">Scatter charts</Link>
+            </li>
+            <li>
+              <Link to="/map">Map charts</Link>
+            </li>
             <li>
               <Link to="/stock">Stock Charts</Link>
             </li>
