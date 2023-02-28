@@ -9,6 +9,7 @@ import Stock from "./pages/Stock";
 import Heatmap from "./pages/Heatmap";
 import Map from "./pages/Map";
 import Scatter from "./pages/ScatterChart";
+import DummyDataGeneration from "./pages/DataGeneration";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -17,6 +18,7 @@ root.render(
         <Routes>
             <Route path="/" element={<App />}>
                 <Route path="heatmap" element={<Heatmap />} />
+                <Route path="DataGeneration" element={<DummyDataGeneration />} />
                 <Route path="scatter" element={<Scatter />} />
                 <Route path="stock" element={<Stock />} />
                 <Route path="map" element={<Map />} />

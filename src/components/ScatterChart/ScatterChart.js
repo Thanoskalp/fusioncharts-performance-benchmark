@@ -8,6 +8,7 @@ charts(FusionCharts);
 
 const dataSource = {
     chart: {
+
         caption: "Sales of Ice creams at Broadway Store",
         subcaption: "Sales vs. Avg. Temperature<br>Los Angeles Topanga",
         xaxisname: "Avg. Temperature",
