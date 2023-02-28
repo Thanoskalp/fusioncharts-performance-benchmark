@@ -22,6 +22,9 @@ root.render(
                 <Route path="scatter" element={<Scatter />} />
                 <Route path="stock" element={<Stock />} />
                 <Route path="map" element={<Map />} />
+                <Route path="heatmap/:id" element={<Heatmap />} />
+                <Route path="scatter/:id" element={<Scatter />} />
+                <Route path="stock/:id" element={<Stock />} />
             </Route>
         </Routes>
     </BrowserRouter>

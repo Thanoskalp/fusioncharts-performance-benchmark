@@ -25,9 +25,6 @@ function App() {
             <li>
               <Link to="/stock">Stock Charts</Link>
             </li>
-            {/*<li>*/}
-            {/*  <Link to="/all">All charts</Link>*/}
-            {/*</li>*/}
           </ul>
         </nav>
         <Outlet />
