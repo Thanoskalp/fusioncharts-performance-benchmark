@@ -1,6001 +1,6001 @@
 [
   {
     "rowid": "185",
-    "colimnid": "191",
+    "columnid": "191",
     "value": 28,
     "trlabel": "apple banana banana"
   },
   {
     "rowid": "79",
-    "colimnid": "292",
+    "columnid": "292",
     "value": 14,
     "trlabel": "peach orange apple"
   },
   {
     "rowid": "80",
-    "colimnid": "271",
+    "columnid": "271",
     "value": 41,
     "trlabel": "grape apple apple"
   },
   {
     "rowid": "106",
-    "colimnid": "80",
+    "columnid": "80",
     "value": 32,
     "trlabel": "apple kiwi kiwi"
   },
   {
     "rowid": "143",
-    "colimnid": "86",
+    "columnid": "86",
     "value": 25,
     "trlabel": "kiwi peach apple"
   },
   {
     "rowid": "200",
-    "colimnid": "298",
+    "columnid": "298",
     "value": 17,
     "trlabel": "apple kiwi peach"
   },
   {
     "rowid": "131",
-    "colimnid": "56",
+    "columnid": "56",
     "value": 42,
     "trlabel": "orange grape grape"
   },
   {
     "rowid": "115",
-    "colimnid": "105",
+    "columnid": "105",
     "value": 34,
     "trlabel": "apple peach banana"
   },
   {
     "rowid": "187",
-    "colimnid": "293",
+    "columnid": "293",
     "value": 16,
     "trlabel": "peach apple peach"
   },
   {
     "rowid": "138",
-    "colimnid": "232",
+    "columnid": "232",
     "value": 19,
     "trlabel": "peach peach peach"
   },
   {
     "rowid": "137",
-    "colimnid": "142",
+    "columnid": "142",
     "value": 24,
     "trlabel": "banana kiwi banana"
   },
   {
     "rowid": "58",
-    "colimnid": "105",
+    "columnid": "105",
     "value": 30,
     "trlabel": "grape grape grape"
   },
   {
     "rowid": "98",
-    "colimnid": "241",
+    "columnid": "241",
     "value": 15,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "53",
-    "colimnid": "211",
+    "columnid": "211",
     "value": 28,
     "trlabel": "kiwi orange banana"
   },
   {
     "rowid": "180",
-    "colimnid": "124",
+    "columnid": "124",
     "value": 20,
     "trlabel": "grape banana peach"
   },
   {
     "rowid": "181",
-    "colimnid": "154",
+    "columnid": "154",
     "value": 15,
     "trlabel": "banana apple banana"
   },
   {
     "rowid": "111",
-    "colimnid": "270",
+    "columnid": "270",
     "value": 44,
     "trlabel": "peach banana grape"
   },
   {
     "rowid": "186",
-    "colimnid": "52",
+    "columnid": "52",
     "value": 25,
     "trlabel": "peach kiwi apple"
   },
   {
     "rowid": "73",
-    "colimnid": "67",
+    "columnid": "67",
     "value": 10,
     "trlabel": "grape orange grape"
   },
   {
     "rowid": "184",
-    "colimnid": "155",
+    "columnid": "155",
     "value": 27,
     "trlabel": "apple peach grape"
   },
   {
     "rowid": "40",
-    "colimnid": "164",
+    "columnid": "164",
     "value": 42,
     "trlabel": "banana apple apple"
   },
   {
     "rowid": "84",
-    "colimnid": "292",
+    "columnid": "292",
     "value": 14,
     "trlabel": "grape banana apple"
   },
   {
     "rowid": "142",
-    "colimnid": "96",
+    "columnid": "96",
     "value": 40,
     "trlabel": "peach orange apple"
   },
   {
     "rowid": "140",
-    "colimnid": "250",
+    "columnid": "250",
     "value": 38,
     "trlabel": "apple kiwi orange"
   },
   {
     "rowid": "167",
-    "colimnid": "125",
+    "columnid": "125",
     "value": 23,
     "trlabel": "orange peach grape"
   },
   {
     "rowid": "185",
-    "colimnid": "50",
+    "columnid": "50",
     "value": 40,
     "trlabel": "kiwi banana peach"
   },
   {
     "rowid": "152",
-    "colimnid": "294",
+    "columnid": "294",
     "value": 35,
     "trlabel": "apple banana grape"
   },
   {
     "rowid": "55",
-    "colimnid": "214",
+    "columnid": "214",
     "value": 42,
     "trlabel": "apple apple kiwi"
   },
   {
     "rowid": "48",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 10,
     "trlabel": "orange orange grape"
   },
   {
     "rowid": "200",
-    "colimnid": "55",
+    "columnid": "55",
     "value": 15,
     "trlabel": "apple apple apple"
   },
   {
     "rowid": "173",
-    "colimnid": "235",
+    "columnid": "235",
     "value": 50,
     "trlabel": "orange grape apple"
   },
   {
     "rowid": "45",
-    "colimnid": "117",
+    "columnid": "117",
     "value": 14,
     "trlabel": "banana banana banana"
   },
   {
     "rowid": "97",
-    "colimnid": "299",
+    "columnid": "299",
     "value": 29,
     "trlabel": "grape apple orange"
   },
   {
     "rowid": "161",
-    "colimnid": "262",
+    "columnid": "262",
     "value": 42,
     "trlabel": "orange banana grape"
   },
   {
     "rowid": "129",
-    "colimnid": "58",
+    "columnid": "58",
     "value": 18,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "54",
-    "colimnid": "274",
+    "columnid": "274",
     "value": 28,
     "trlabel": "peach orange orange"
   },
   {
     "rowid": "49",
-    "colimnid": "276",
+    "columnid": "276",
     "value": 29,
     "trlabel": "banana peach peach"
   },
   {
     "rowid": "172",
-    "colimnid": "52",
+    "columnid": "52",
     "value": 45,
     "trlabel": "banana kiwi peach"
   },
   {
     "rowid": "25",
-    "colimnid": "210",
+    "columnid": "210",
     "value": 17,
     "trlabel": "apple apple kiwi"
   },
   {
     "rowid": "20",
-    "colimnid": "167",
+    "columnid": "167",
     "value": 15,
     "trlabel": "grape peach apple"
   },
   {
     "rowid": "69",
-    "colimnid": "74",
+    "columnid": "74",
     "value": 49,
     "trlabel": "orange banana grape"
   },
   {
     "rowid": "88",
-    "colimnid": "222",
+    "columnid": "222",
     "value": 40,
     "trlabel": "orange kiwi orange"
   },
   {
     "rowid": "66",
-    "colimnid": "201",
+    "columnid": "201",
     "value": 32,
     "trlabel": "banana apple orange"
   },
   {
     "rowid": "152",
-    "colimnid": "80",
+    "columnid": "80",
     "value": 21,
     "trlabel": "grape orange banana"
   },
   {
     "rowid": "90",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 31,
     "trlabel": "banana grape grape"
   },
   {
     "rowid": "140",
-    "colimnid": "165",
+    "columnid": "165",
     "value": 22,
     "trlabel": "orange grape peach"
   },
   {
     "rowid": "145",
-    "colimnid": "185",
+    "columnid": "185",
     "value": 24,
     "trlabel": "orange kiwi peach"
   },
   {
     "rowid": "118",
-    "colimnid": "237",
+    "columnid": "237",
     "value": 22,
     "trlabel": "grape apple kiwi"
   },
   {
     "rowid": "43",
-    "colimnid": "74",
+    "columnid": "74",
     "value": 45,
     "trlabel": "peach peach orange"
   },
   {
     "rowid": "184",
-    "colimnid": "187",
+    "columnid": "187",
     "value": 18,
     "trlabel": "apple apple orange"
   },
   {
     "rowid": "45",
-    "colimnid": "130",
+    "columnid": "130",
     "value": 18,
     "trlabel": "kiwi grape grape"
   },
   {
     "rowid": "65",
-    "colimnid": "78",
+    "columnid": "78",
     "value": 45,
     "trlabel": "kiwi grape kiwi"
   },
   {
     "rowid": "33",
-    "colimnid": "140",
+    "columnid": "140",
     "value": 25,
     "trlabel": "banana banana grape"
   },
   {
     "rowid": "167",
-    "colimnid": "296",
+    "columnid": "296",
     "value": 38,
     "trlabel": "grape apple kiwi"
   },
   {
     "rowid": "109",
-    "colimnid": "93",
+    "columnid": "93",
     "value": 13,
     "trlabel": "kiwi apple banana"
   },
   {
     "rowid": "162",
-    "colimnid": "128",
+    "columnid": "128",
     "value": 30,
     "trlabel": "banana grape apple"
   },
   {
     "rowid": "96",
-    "colimnid": "172",
+    "columnid": "172",
     "value": 36,
     "trlabel": "kiwi grape apple"
   },
   {
     "rowid": "155",
-    "colimnid": "261",
+    "columnid": "261",
     "value": 30,
     "trlabel": "kiwi grape apple"
   },
   {
     "rowid": "82",
-    "colimnid": "253",
+    "columnid": "253",
     "value": 47,
     "trlabel": "banana orange banana"
   },
   {
     "rowid": "33",
-    "colimnid": "236",
+    "columnid": "236",
     "value": 37,
     "trlabel": "banana kiwi banana"
   },
   {
     "rowid": "40",
-    "colimnid": "274",
+    "columnid": "274",
     "value": 27,
     "trlabel": "kiwi kiwi apple"
   },
   {
     "rowid": "117",
-    "colimnid": "197",
+    "columnid": "197",
     "value": 44,
     "trlabel": "apple orange kiwi"
   },
   {
     "rowid": "133",
-    "colimnid": "63",
+    "columnid": "63",
     "value": 13,
     "trlabel": "orange apple banana"
   },
   {
     "rowid": "26",
-    "colimnid": "238",
+    "columnid": "238",
     "value": 27,
     "trlabel": "kiwi peach orange"
   },
   {
     "rowid": "168",
-    "colimnid": "57",
+    "columnid": "57",
     "value": 46,
     "trlabel": "peach kiwi orange"
   },
   {
     "rowid": "54",
-    "colimnid": "64",
+    "columnid": "64",
     "value": 43,
     "trlabel": "banana peach banana"
   },
   {
     "rowid": "86",
-    "colimnid": "218",
+    "columnid": "218",
     "value": 22,
     "trlabel": "orange orange peach"
   },
   {
     "rowid": "193",
-    "colimnid": "160",
+    "columnid": "160",
     "value": 24,
     "trlabel": "grape peach kiwi"
   },
   {
     "rowid": "160",
-    "colimnid": "162",
+    "columnid": "162",
     "value": 18,
     "trlabel": "banana apple banana"
   },
   {
     "rowid": "120",
-    "colimnid": "55",
+    "columnid": "55",
     "value": 48,
     "trlabel": "banana banana orange"
   },
   {
     "rowid": "182",
-    "colimnid": "277",
+    "columnid": "277",
     "value": 42,
     "trlabel": "peach banana apple"
   },
   {
     "rowid": "32",
-    "colimnid": "67",
+    "columnid": "67",
     "value": 32,
     "trlabel": "orange apple kiwi"
   },
   {
     "rowid": "161",
-    "colimnid": "197",
+    "columnid": "197",
     "value": 12,
     "trlabel": "grape kiwi peach"
   },
   {
     "rowid": "94",
-    "colimnid": "244",
+    "columnid": "244",
     "value": 32,
     "trlabel": "apple banana orange"
   },
   {
     "rowid": "144",
-    "colimnid": "103",
+    "columnid": "103",
     "value": 12,
     "trlabel": "apple peach peach"
   },
   {
     "rowid": "63",
-    "colimnid": "53",
+    "columnid": "53",
     "value": 27,
     "trlabel": "peach apple apple"
   },
   {
     "rowid": "163",
-    "colimnid": "118",
+    "columnid": "118",
     "value": 42,
     "trlabel": "grape grape banana"
   },
   {
     "rowid": "61",
-    "colimnid": "126",
+    "columnid": "126",
     "value": 40,
     "trlabel": "kiwi orange apple"
   },
   {
     "rowid": "38",
-    "colimnid": "221",
+    "columnid": "221",
     "value": 11,
     "trlabel": "grape apple kiwi"
   },
   {
     "rowid": "86",
-    "colimnid": "217",
+    "columnid": "217",
     "value": 12,
     "trlabel": "apple peach apple"
   },
   {
     "rowid": "154",
-    "colimnid": "146",
+    "columnid": "146",
     "value": 38,
     "trlabel": "banana peach apple"
   },
   {
     "rowid": "178",
-    "colimnid": "245",
+    "columnid": "245",
     "value": 13,
     "trlabel": "apple banana orange"
   },
   {
     "rowid": "155",
-    "colimnid": "184",
+    "columnid": "184",
     "value": 31,
     "trlabel": "grape grape kiwi"
   },
   {
     "rowid": "161",
-    "colimnid": "67",
+    "columnid": "67",
     "value": 26,
     "trlabel": "grape banana grape"
   },
   {
     "rowid": "191",
-    "colimnid": "203",
+    "columnid": "203",
     "value": 35,
     "trlabel": "orange peach banana"
   },
   {
     "rowid": "84",
-    "colimnid": "121",
+    "columnid": "121",
     "value": 50,
     "trlabel": "apple kiwi apple"
   },
   {
     "rowid": "175",
-    "colimnid": "242",
+    "columnid": "242",
     "value": 15,
     "trlabel": "peach peach kiwi"
   },
   {
     "rowid": "141",
-    "colimnid": "129",
+    "columnid": "129",
     "value": 24,
     "trlabel": "grape banana grape"
   },
   {
     "rowid": "184",
-    "colimnid": "190",
+    "columnid": "190",
     "value": 10,
     "trlabel": "kiwi peach grape"
   },
   {
     "rowid": "182",
-    "colimnid": "160",
+    "columnid": "160",
     "value": 46,
     "trlabel": "peach grape peach"
   },
   {
     "rowid": "27",
-    "colimnid": "58",
+    "columnid": "58",
     "value": 22,
     "trlabel": "kiwi grape banana"
   },
   {
     "rowid": "63",
-    "colimnid": "164",
+    "columnid": "164",
     "value": 16,
     "trlabel": "kiwi peach grape"
   },
   {
     "rowid": "122",
-    "colimnid": "199",
+    "columnid": "199",
     "value": 36,
     "trlabel": "kiwi banana apple"
   },
   {
     "rowid": "74",
-    "colimnid": "189",
+    "columnid": "189",
     "value": 14,
     "trlabel": "grape peach banana"
   },
   {
     "rowid": "128",
-    "colimnid": "200",
+    "columnid": "200",
     "value": 14,
     "trlabel": "apple orange peach"
   },
   {
     "rowid": "136",
-    "colimnid": "276",
+    "columnid": "276",
     "value": 16,
     "trlabel": "peach orange peach"
   },
   {
     "rowid": "76",
-    "colimnid": "187",
+    "columnid": "187",
     "value": 29,
     "trlabel": "grape orange kiwi"
   },
   {
     "rowid": "89",
-    "colimnid": "202",
+    "columnid": "202",
     "value": 12,
     "trlabel": "banana grape kiwi"
   },
   {
     "rowid": "33",
-    "colimnid": "183",
+    "columnid": "183",
     "value": 38,
     "trlabel": "banana banana peach"
   },
   {
     "rowid": "167",
-    "colimnid": "201",
+    "columnid": "201",
     "value": 23,
     "trlabel": "peach grape kiwi"
   },
   {
     "rowid": "168",
-    "colimnid": "89",
+    "columnid": "89",
     "value": 29,
     "trlabel": "orange banana orange"
   },
   {
     "rowid": "34",
-    "colimnid": "251",
+    "columnid": "251",
     "value": 40,
     "trlabel": "kiwi kiwi grape"
   },
   {
     "rowid": "67",
-    "colimnid": "61",
+    "columnid": "61",
     "value": 21,
     "trlabel": "banana orange orange"
   },
   {
     "rowid": "21",
-    "colimnid": "206",
+    "columnid": "206",
     "value": 27,
     "trlabel": "peach kiwi orange"
   },
   {
     "rowid": "115",
-    "colimnid": "59",
+    "columnid": "59",
     "value": 38,
     "trlabel": "banana banana kiwi"
   },
   {
     "rowid": "53",
-    "colimnid": "290",
+    "columnid": "290",
     "value": 49,
     "trlabel": "grape peach kiwi"
   },
   {
     "rowid": "54",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 31,
     "trlabel": "peach peach kiwi"
   },
   {
     "rowid": "150",
-    "colimnid": "89",
+    "columnid": "89",
     "value": 34,
     "trlabel": "banana peach kiwi"
   },
   {
     "rowid": "22",
-    "colimnid": "235",
+    "columnid": "235",
     "value": 21,
     "trlabel": "banana peach orange"
   },
   {
     "rowid": "155",
-    "colimnid": "154",
+    "columnid": "154",
     "value": 40,
     "trlabel": "banana orange banana"
   },
   {
     "rowid": "190",
-    "colimnid": "251",
+    "columnid": "251",
     "value": 39,
     "trlabel": "orange grape orange"
   },
   {
     "rowid": "70",
-    "colimnid": "79",
+    "columnid": "79",
     "value": 15,
     "trlabel": "banana peach banana"
   },
   {
     "rowid": "44",
-    "colimnid": "94",
+    "columnid": "94",
     "value": 21,
     "trlabel": "grape orange apple"
   },
   {
     "rowid": "168",
-    "colimnid": "137",
+    "columnid": "137",
     "value": 21,
     "trlabel": "apple apple apple"
   },
   {
     "rowid": "177",
-    "colimnid": "277",
+    "columnid": "277",
     "value": 13,
     "trlabel": "orange kiwi peach"
   },
   {
     "rowid": "188",
-    "colimnid": "267",
+    "columnid": "267",
     "value": 26,
     "trlabel": "orange banana orange"
   },
   {
     "rowid": "153",
-    "colimnid": "111",
+    "columnid": "111",
     "value": 46,
     "trlabel": "grape grape grape"
   },
   {
     "rowid": "143",
-    "colimnid": "99",
+    "columnid": "99",
     "value": 21,
     "trlabel": "grape peach peach"
   },
   {
     "rowid": "136",
-    "colimnid": "112",
+    "columnid": "112",
     "value": 13,
     "trlabel": "peach apple kiwi"
   },
   {
     "rowid": "22",
-    "colimnid": "123",
+    "columnid": "123",
     "value": 44,
     "trlabel": "orange kiwi orange"
   },
   {
     "rowid": "156",
-    "colimnid": "103",
+    "columnid": "103",
     "value": 45,
     "trlabel": "kiwi apple banana"
   },
   {
     "rowid": "148",
-    "colimnid": "77",
+    "columnid": "77",
     "value": 39,
     "trlabel": "peach banana apple"
   },
   {
     "rowid": "105",
-    "colimnid": "234",
+    "columnid": "234",
     "value": 50,
     "trlabel": "apple apple grape"
   },
   {
     "rowid": "112",
-    "colimnid": "227",
+    "columnid": "227",
     "value": 23,
     "trlabel": "apple grape peach"
   },
   {
     "rowid": "42",
-    "colimnid": "77",
+    "columnid": "77",
     "value": 49,
     "trlabel": "apple kiwi banana"
   },
   {
     "rowid": "76",
-    "colimnid": "118",
+    "columnid": "118",
     "value": 38,
     "trlabel": "apple kiwi kiwi"
   },
   {
     "rowid": "175",
-    "colimnid": "82",
+    "columnid": "82",
     "value": 49,
     "trlabel": "banana banana apple"
   },
   {
     "rowid": "74",
-    "colimnid": "118",
+    "columnid": "118",
     "value": 37,
     "trlabel": "peach apple banana"
   },
   {
     "rowid": "111",
-    "colimnid": "297",
+    "columnid": "297",
     "value": 37,
     "trlabel": "orange peach banana"
   },
   {
     "rowid": "119",
-    "colimnid": "220",
+    "columnid": "220",
     "value": 21,
     "trlabel": "kiwi grape apple"
   },
   {
     "rowid": "152",
-    "colimnid": "181",
+    "columnid": "181",
     "value": 12,
     "trlabel": "apple orange peach"
   },
   {
     "rowid": "26",
-    "colimnid": "175",
+    "columnid": "175",
     "value": 49,
     "trlabel": "orange banana apple"
   },
   {
     "rowid": "198",
-    "colimnid": "291",
+    "columnid": "291",
     "value": 15,
     "trlabel": "grape peach grape"
   },
   {
     "rowid": "102",
-    "colimnid": "144",
+    "columnid": "144",
     "value": 17,
     "trlabel": "banana kiwi banana"
   },
   {
     "rowid": "102",
-    "colimnid": "133",
+    "columnid": "133",
     "value": 14,
     "trlabel": "banana peach banana"
   },
   {
     "rowid": "99",
-    "colimnid": "183",
+    "columnid": "183",
     "value": 35,
     "trlabel": "banana banana kiwi"
   },
   {
     "rowid": "27",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 36,
     "trlabel": "grape orange apple"
   },
   {
     "rowid": "194",
-    "colimnid": "135",
+    "columnid": "135",
     "value": 49,
     "trlabel": "banana kiwi orange"
   },
   {
     "rowid": "187",
-    "colimnid": "206",
+    "columnid": "206",
     "value": 21,
     "trlabel": "kiwi grape peach"
   },
   {
     "rowid": "76",
-    "colimnid": "140",
+    "columnid": "140",
     "value": 45,
     "trlabel": "apple kiwi kiwi"
   },
   {
     "rowid": "142",
-    "colimnid": "210",
+    "columnid": "210",
     "value": 25,
     "trlabel": "banana kiwi apple"
   },
   {
     "rowid": "91",
-    "colimnid": "180",
+    "columnid": "180",
     "value": 25,
     "trlabel": "banana peach kiwi"
   },
   {
     "rowid": "126",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 18,
     "trlabel": "peach peach peach"
   },
   {
     "rowid": "26",
-    "colimnid": "260",
+    "columnid": "260",
     "value": 23,
     "trlabel": "kiwi banana grape"
   },
   {
     "rowid": "31",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 30,
     "trlabel": "kiwi banana apple"
   },
   {
     "rowid": "183",
-    "colimnid": "206",
+    "columnid": "206",
     "value": 32,
     "trlabel": "apple apple banana"
   },
   {
     "rowid": "92",
-    "colimnid": "295",
+    "columnid": "295",
     "value": 13,
     "trlabel": "grape kiwi orange"
   },
   {
     "rowid": "45",
-    "colimnid": "293",
+    "columnid": "293",
     "value": 22,
     "trlabel": "kiwi kiwi grape"
   },
   {
     "rowid": "55",
-    "colimnid": "103",
+    "columnid": "103",
     "value": 19,
     "trlabel": "orange orange grape"
   },
   {
     "rowid": "183",
-    "colimnid": "129",
+    "columnid": "129",
     "value": 14,
     "trlabel": "banana peach banana"
   },
   {
     "rowid": "115",
-    "colimnid": "96",
+    "columnid": "96",
     "value": 18,
     "trlabel": "peach apple grape"
   },
   {
     "rowid": "51",
-    "colimnid": "82",
+    "columnid": "82",
     "value": 39,
     "trlabel": "peach apple apple"
   },
   {
     "rowid": "90",
-    "colimnid": "104",
+    "columnid": "104",
     "value": 21,
     "trlabel": "banana orange orange"
   },
   {
     "rowid": "57",
-    "colimnid": "71",
+    "columnid": "71",
     "value": 17,
     "trlabel": "peach kiwi kiwi"
   },
   {
     "rowid": "174",
-    "colimnid": "146",
+    "columnid": "146",
     "value": 18,
     "trlabel": "peach kiwi orange"
   },
   {
     "rowid": "104",
-    "colimnid": "151",
+    "columnid": "151",
     "value": 43,
     "trlabel": "banana kiwi orange"
   },
   {
     "rowid": "174",
-    "colimnid": "64",
+    "columnid": "64",
     "value": 23,
     "trlabel": "banana grape orange"
   },
   {
     "rowid": "98",
-    "colimnid": "171",
+    "columnid": "171",
     "value": 34,
     "trlabel": "apple banana grape"
   },
   {
     "rowid": "162",
-    "colimnid": "266",
+    "columnid": "266",
     "value": 43,
     "trlabel": "kiwi kiwi orange"
   },
   {
     "rowid": "30",
-    "colimnid": "202",
+    "columnid": "202",
     "value": 22,
     "trlabel": "kiwi peach orange"
   },
   {
     "rowid": "189",
-    "colimnid": "131",
+    "columnid": "131",
     "value": 40,
     "trlabel": "kiwi grape kiwi"
   },
   {
     "rowid": "170",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 44,
     "trlabel": "apple grape orange"
   },
   {
     "rowid": "98",
-    "colimnid": "198",
+    "columnid": "198",
     "value": 11,
     "trlabel": "banana banana kiwi"
   },
   {
     "rowid": "186",
-    "colimnid": "189",
+    "columnid": "189",
     "value": 50,
     "trlabel": "orange apple orange"
   },
   {
     "rowid": "145",
-    "colimnid": "129",
+    "columnid": "129",
     "value": 21,
     "trlabel": "peach grape grape"
   },
   {
     "rowid": "100",
-    "colimnid": "132",
+    "columnid": "132",
     "value": 21,
     "trlabel": "grape banana orange"
   },
   {
     "rowid": "169",
-    "colimnid": "264",
+    "columnid": "264",
     "value": 49,
     "trlabel": "kiwi grape peach"
   },
   {
     "rowid": "156",
-    "colimnid": "244",
+    "columnid": "244",
     "value": 43,
     "trlabel": "banana peach peach"
   },
   {
     "rowid": "62",
-    "colimnid": "80",
+    "columnid": "80",
     "value": 22,
     "trlabel": "grape grape orange"
   },
   {
     "rowid": "149",
-    "colimnid": "100",
+    "columnid": "100",
     "value": 20,
     "trlabel": "grape banana apple"
   },
   {
     "rowid": "77",
-    "colimnid": "112",
+    "columnid": "112",
     "value": 41,
     "trlabel": "kiwi orange kiwi"
   },
   {
     "rowid": "189",
-    "colimnid": "262",
+    "columnid": "262",
     "value": 28,
     "trlabel": "apple kiwi kiwi"
   },
   {
     "rowid": "38",
-    "colimnid": "53",
+    "columnid": "53",
     "value": 47,
     "trlabel": "grape grape peach"
   },
   {
     "rowid": "58",
-    "colimnid": "257",
+    "columnid": "257",
     "value": 28,
     "trlabel": "peach banana peach"
   },
   {
     "rowid": "72",
-    "colimnid": "142",
+    "columnid": "142",
     "value": 16,
     "trlabel": "kiwi grape grape"
   },
   {
     "rowid": "66",
-    "colimnid": "174",
+    "columnid": "174",
     "value": 26,
     "trlabel": "peach apple kiwi"
   },
   {
     "rowid": "43",
-    "colimnid": "235",
+    "columnid": "235",
     "value": 18,
     "trlabel": "banana orange grape"
   },
   {
     "rowid": "77",
-    "colimnid": "292",
+    "columnid": "292",
     "value": 39,
     "trlabel": "orange banana kiwi"
   },
   {
     "rowid": "21",
-    "colimnid": "163",
+    "columnid": "163",
     "value": 35,
     "trlabel": "banana grape banana"
   },
   {
     "rowid": "135",
-    "colimnid": "79",
+    "columnid": "79",
     "value": 14,
     "trlabel": "kiwi kiwi peach"
   },
   {
     "rowid": "119",
-    "colimnid": "75",
+    "columnid": "75",
     "value": 50,
     "trlabel": "grape grape orange"
   },
   {
     "rowid": "109",
-    "colimnid": "145",
+    "columnid": "145",
     "value": 38,
     "trlabel": "apple orange banana"
   },
   {
     "rowid": "101",
-    "colimnid": "200",
+    "columnid": "200",
     "value": 48,
     "trlabel": "peach kiwi grape"
   },
   {
     "rowid": "200",
-    "colimnid": "54",
+    "columnid": "54",
     "value": 43,
     "trlabel": "orange banana banana"
   },
   {
     "rowid": "20",
-    "colimnid": "224",
+    "columnid": "224",
     "value": 19,
     "trlabel": "apple peach orange"
   },
   {
     "rowid": "155",
-    "colimnid": "89",
+    "columnid": "89",
     "value": 14,
     "trlabel": "apple peach kiwi"
   },
   {
     "rowid": "76",
-    "colimnid": "86",
+    "columnid": "86",
     "value": 25,
     "trlabel": "orange banana apple"
   },
   {
     "rowid": "87",
-    "colimnid": "133",
+    "columnid": "133",
     "value": 14,
     "trlabel": "kiwi orange peach"
   },
   {
     "rowid": "95",
-    "colimnid": "169",
+    "columnid": "169",
     "value": 14,
     "trlabel": "grape banana grape"
   },
   {
     "rowid": "149",
-    "colimnid": "162",
+    "columnid": "162",
     "value": 41,
     "trlabel": "orange apple kiwi"
   },
   {
     "rowid": "136",
-    "colimnid": "62",
+    "columnid": "62",
     "value": 17,
     "trlabel": "grape grape peach"
   },
   {
     "rowid": "101",
-    "colimnid": "160",
+    "columnid": "160",
     "value": 43,
     "trlabel": "peach banana peach"
   },
   {
     "rowid": "174",
-    "colimnid": "230",
+    "columnid": "230",
     "value": 21,
     "trlabel": "kiwi peach peach"
   },
   {
     "rowid": "78",
-    "colimnid": "265",
+    "columnid": "265",
     "value": 43,
     "trlabel": "apple kiwi orange"
   },
   {
     "rowid": "57",
-    "colimnid": "228",
+    "columnid": "228",
     "value": 41,
     "trlabel": "peach grape orange"
   },
   {
     "rowid": "198",
-    "colimnid": "158",
+    "columnid": "158",
     "value": 16,
     "trlabel": "grape banana peach"
   },
   {
     "rowid": "152",
-    "colimnid": "269",
+    "columnid": "269",
     "value": 45,
     "trlabel": "orange kiwi apple"
   },
   {
     "rowid": "100",
-    "colimnid": "56",
+    "columnid": "56",
     "value": 28,
     "trlabel": "orange kiwi grape"
   },
   {
     "rowid": "26",
-    "colimnid": "203",
+    "columnid": "203",
     "value": 18,
     "trlabel": "peach banana apple"
   },
   {
     "rowid": "192",
-    "colimnid": "223",
+    "columnid": "223",
     "value": 34,
     "trlabel": "orange orange grape"
   },
   {
     "rowid": "185",
-    "colimnid": "157",
+    "columnid": "157",
     "value": 11,
     "trlabel": "kiwi banana peach"
   },
   {
     "rowid": "31",
-    "colimnid": "76",
+    "columnid": "76",
     "value": 32,
     "trlabel": "orange apple banana"
   },
   {
     "rowid": "90",
-    "colimnid": "285",
+    "columnid": "285",
     "value": 43,
     "trlabel": "orange banana banana"
   },
   {
     "rowid": "160",
-    "colimnid": "233",
+    "columnid": "233",
     "value": 14,
     "trlabel": "kiwi peach peach"
   },
   {
     "rowid": "131",
-    "colimnid": "143",
+    "columnid": "143",
     "value": 21,
     "trlabel": "apple peach kiwi"
   },
   {
     "rowid": "193",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 14,
     "trlabel": "orange orange orange"
   },
   {
     "rowid": "68",
-    "colimnid": "100",
+    "columnid": "100",
     "value": 45,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "51",
-    "colimnid": "162",
+    "columnid": "162",
     "value": 32,
     "trlabel": "grape banana peach"
   },
   {
     "rowid": "76",
-    "colimnid": "65",
+    "columnid": "65",
     "value": 33,
     "trlabel": "peach grape orange"
   },
   {
     "rowid": "76",
-    "colimnid": "132",
+    "columnid": "132",
     "value": 27,
     "trlabel": "grape orange grape"
   },
   {
     "rowid": "131",
-    "colimnid": "230",
+    "columnid": "230",
     "value": 41,
     "trlabel": "grape banana banana"
   },
   {
     "rowid": "128",
-    "colimnid": "254",
+    "columnid": "254",
     "value": 24,
     "trlabel": "apple banana kiwi"
   },
   {
     "rowid": "44",
-    "colimnid": "183",
+    "columnid": "183",
     "value": 13,
     "trlabel": "orange kiwi peach"
   },
   {
     "rowid": "111",
-    "colimnid": "220",
+    "columnid": "220",
     "value": 18,
     "trlabel": "orange kiwi peach"
   },
   {
     "rowid": "65",
-    "colimnid": "131",
+    "columnid": "131",
     "value": 12,
     "trlabel": "banana kiwi orange"
   },
   {
     "rowid": "38",
-    "colimnid": "223",
+    "columnid": "223",
     "value": 17,
     "trlabel": "apple kiwi orange"
   },
   {
     "rowid": "180",
-    "colimnid": "88",
+    "columnid": "88",
     "value": 50,
     "trlabel": "kiwi peach banana"
   },
   {
     "rowid": "77",
-    "colimnid": "61",
+    "columnid": "61",
     "value": 26,
     "trlabel": "apple kiwi orange"
   },
   {
     "rowid": "153",
-    "colimnid": "68",
+    "columnid": "68",
     "value": 14,
     "trlabel": "peach orange apple"
   },
   {
     "rowid": "163",
-    "colimnid": "63",
+    "columnid": "63",
     "value": 34,
     "trlabel": "banana peach grape"
   },
   {
     "rowid": "93",
-    "colimnid": "112",
+    "columnid": "112",
     "value": 36,
     "trlabel": "grape grape kiwi"
   },
   {
     "rowid": "70",
-    "colimnid": "243",
+    "columnid": "243",
     "value": 49,
     "trlabel": "peach banana peach"
   },
   {
     "rowid": "48",
-    "colimnid": "248",
+    "columnid": "248",
     "value": 31,
     "trlabel": "orange banana apple"
   },
   {
     "rowid": "70",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 36,
     "trlabel": "kiwi grape peach"
   },
   {
     "rowid": "170",
-    "colimnid": "296",
+    "columnid": "296",
     "value": 31,
     "trlabel": "banana banana orange"
   },
   {
     "rowid": "60",
-    "colimnid": "132",
+    "columnid": "132",
     "value": 47,
     "trlabel": "orange grape grape"
   },
   {
     "rowid": "153",
-    "colimnid": "190",
+    "columnid": "190",
     "value": 17,
     "trlabel": "apple apple apple"
   },
   {
     "rowid": "175",
-    "colimnid": "256",
+    "columnid": "256",
     "value": 13,
     "trlabel": "apple peach orange"
   },
   {
     "rowid": "152",
-    "colimnid": "180",
+    "columnid": "180",
     "value": 45,
     "trlabel": "orange grape apple"
   },
   {
     "rowid": "189",
-    "colimnid": "239",
+    "columnid": "239",
     "value": 36,
     "trlabel": "orange banana grape"
   },
   {
     "rowid": "49",
-    "colimnid": "215",
+    "columnid": "215",
     "value": 47,
     "trlabel": "grape peach peach"
   },
   {
     "rowid": "59",
-    "colimnid": "65",
+    "columnid": "65",
     "value": 50,
     "trlabel": "peach orange orange"
   },
   {
     "rowid": "78",
-    "colimnid": "110",
+    "columnid": "110",
     "value": 14,
     "trlabel": "banana grape orange"
   },
   {
     "rowid": "90",
-    "colimnid": "228",
+    "columnid": "228",
     "value": 23,
     "trlabel": "kiwi orange apple"
   },
   {
     "rowid": "44",
-    "colimnid": "220",
+    "columnid": "220",
     "value": 21,
     "trlabel": "peach grape apple"
   },
   {
     "rowid": "195",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 27,
     "trlabel": "orange grape kiwi"
   },
   {
     "rowid": "73",
-    "colimnid": "174",
+    "columnid": "174",
     "value": 23,
     "trlabel": "peach banana grape"
   },
   {
     "rowid": "84",
-    "colimnid": "164",
+    "columnid": "164",
     "value": 40,
     "trlabel": "kiwi grape kiwi"
   },
   {
     "rowid": "172",
-    "colimnid": "283",
+    "columnid": "283",
     "value": 32,
     "trlabel": "grape orange kiwi"
   },
   {
     "rowid": "147",
-    "colimnid": "85",
+    "columnid": "85",
     "value": 48,
     "trlabel": "kiwi grape kiwi"
   },
   {
     "rowid": "152",
-    "colimnid": "100",
+    "columnid": "100",
     "value": 15,
     "trlabel": "peach apple peach"
   },
   {
     "rowid": "197",
-    "colimnid": "215",
+    "columnid": "215",
     "value": 17,
     "trlabel": "orange banana kiwi"
   },
   {
     "rowid": "54",
-    "colimnid": "242",
+    "columnid": "242",
     "value": 24,
     "trlabel": "grape kiwi apple"
   },
   {
     "rowid": "124",
-    "colimnid": "261",
+    "columnid": "261",
     "value": 26,
     "trlabel": "kiwi peach apple"
   },
   {
     "rowid": "85",
-    "colimnid": "239",
+    "columnid": "239",
     "value": 41,
     "trlabel": "peach apple orange"
   },
   {
     "rowid": "71",
-    "colimnid": "299",
+    "columnid": "299",
     "value": 43,
     "trlabel": "peach banana peach"
   },
   {
     "rowid": "115",
-    "colimnid": "189",
+    "columnid": "189",
     "value": 45,
     "trlabel": "banana apple peach"
   },
   {
     "rowid": "35",
-    "colimnid": "147",
+    "columnid": "147",
     "value": 29,
     "trlabel": "grape apple banana"
   },
   {
     "rowid": "22",
-    "colimnid": "173",
+    "columnid": "173",
     "value": 26,
     "trlabel": "apple peach apple"
   },
   {
     "rowid": "82",
-    "colimnid": "136",
+    "columnid": "136",
     "value": 32,
     "trlabel": "kiwi kiwi kiwi"
   },
   {
     "rowid": "176",
-    "colimnid": "227",
+    "columnid": "227",
     "value": 48,
     "trlabel": "grape kiwi peach"
   },
   {
     "rowid": "46",
-    "colimnid": "257",
+    "columnid": "257",
     "value": 21,
     "trlabel": "kiwi peach banana"
   },
   {
     "rowid": "148",
-    "colimnid": "187",
+    "columnid": "187",
     "value": 48,
     "trlabel": "apple apple kiwi"
   },
   {
     "rowid": "157",
-    "colimnid": "157",
+    "columnid": "157",
     "value": 11,
     "trlabel": "orange banana apple"
   },
   {
     "rowid": "48",
-    "colimnid": "268",
+    "columnid": "268",
     "value": 20,
     "trlabel": "orange peach kiwi"
   },
   {
     "rowid": "25",
-    "colimnid": "193",
+    "columnid": "193",
     "value": 15,
     "trlabel": "peach peach banana"
   },
   {
     "rowid": "46",
-    "colimnid": "193",
+    "columnid": "193",
     "value": 45,
     "trlabel": "peach peach banana"
   },
   {
     "rowid": "94",
-    "colimnid": "80",
+    "columnid": "80",
     "value": 36,
     "trlabel": "grape kiwi grape"
   },
   {
     "rowid": "71",
-    "colimnid": "169",
+    "columnid": "169",
     "value": 36,
     "trlabel": "orange peach banana"
   },
   {
     "rowid": "23",
-    "colimnid": "61",
+    "columnid": "61",
     "value": 14,
     "trlabel": "grape apple banana"
   },
   {
     "rowid": "154",
-    "colimnid": "153",
+    "columnid": "153",
     "value": 13,
     "trlabel": "grape orange kiwi"
   },
   {
     "rowid": "43",
-    "colimnid": "148",
+    "columnid": "148",
     "value": 49,
     "trlabel": "orange orange peach"
   },
   {
     "rowid": "101",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 13,
     "trlabel": "kiwi kiwi grape"
   },
   {
     "rowid": "96",
-    "colimnid": "69",
+    "columnid": "69",
     "value": 24,
     "trlabel": "orange peach peach"
   },
   {
     "rowid": "46",
-    "colimnid": "258",
+    "columnid": "258",
     "value": 29,
     "trlabel": "peach orange apple"
   },
   {
     "rowid": "89",
-    "colimnid": "89",
+    "columnid": "89",
     "value": 15,
     "trlabel": "orange apple banana"
   },
   {
     "rowid": "148",
-    "colimnid": "110",
+    "columnid": "110",
     "value": 39,
     "trlabel": "grape peach apple"
   },
   {
     "rowid": "40",
-    "colimnid": "279",
+    "columnid": "279",
     "value": 44,
     "trlabel": "peach peach kiwi"
   },
   {
     "rowid": "58",
-    "colimnid": "89",
+    "columnid": "89",
     "value": 19,
     "trlabel": "grape kiwi grape"
   },
   {
     "rowid": "119",
-    "colimnid": "77",
+    "columnid": "77",
     "value": 14,
     "trlabel": "peach orange peach"
   },
   {
     "rowid": "34",
-    "colimnid": "187",
+    "columnid": "187",
     "value": 48,
     "trlabel": "apple grape grape"
   },
   {
     "rowid": "80",
-    "colimnid": "71",
+    "columnid": "71",
     "value": 26,
     "trlabel": "banana grape banana"
   },
   {
     "rowid": "37",
-    "colimnid": "185",
+    "columnid": "185",
     "value": 23,
     "trlabel": "grape grape grape"
   },
   {
     "rowid": "111",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 43,
     "trlabel": "banana peach orange"
   },
   {
     "rowid": "98",
-    "colimnid": "295",
+    "columnid": "295",
     "value": 43,
     "trlabel": "grape kiwi grape"
   },
   {
     "rowid": "192",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 13,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "118",
-    "colimnid": "199",
+    "columnid": "199",
     "value": 36,
     "trlabel": "grape apple grape"
   },
   {
     "rowid": "130",
-    "colimnid": "153",
+    "columnid": "153",
     "value": 41,
     "trlabel": "banana grape apple"
   },
   {
     "rowid": "62",
-    "colimnid": "65",
+    "columnid": "65",
     "value": 39,
     "trlabel": "peach apple kiwi"
   },
   {
     "rowid": "143",
-    "colimnid": "166",
+    "columnid": "166",
     "value": 25,
     "trlabel": "grape grape peach"
   },
   {
     "rowid": "192",
-    "colimnid": "259",
+    "columnid": "259",
     "value": 29,
     "trlabel": "apple kiwi apple"
   },
   {
     "rowid": "109",
-    "colimnid": "257",
+    "columnid": "257",
     "value": 24,
     "trlabel": "peach grape kiwi"
   },
   {
     "rowid": "167",
-    "colimnid": "275",
+    "columnid": "275",
     "value": 27,
     "trlabel": "apple peach kiwi"
   },
   {
     "rowid": "117",
-    "colimnid": "63",
+    "columnid": "63",
     "value": 22,
     "trlabel": "kiwi apple peach"
   },
   {
     "rowid": "62",
-    "colimnid": "280",
+    "columnid": "280",
     "value": 15,
     "trlabel": "apple grape orange"
   },
   {
     "rowid": "162",
-    "colimnid": "109",
+    "columnid": "109",
     "value": 50,
     "trlabel": "kiwi grape orange"
   },
   {
     "rowid": "56",
-    "colimnid": "297",
+    "columnid": "297",
     "value": 38,
     "trlabel": "banana orange kiwi"
   },
   {
     "rowid": "154",
-    "colimnid": "99",
+    "columnid": "99",
     "value": 28,
     "trlabel": "banana kiwi kiwi"
   },
   {
     "rowid": "128",
-    "colimnid": "250",
+    "columnid": "250",
     "value": 12,
     "trlabel": "peach peach grape"
   },
   {
     "rowid": "77",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 50,
     "trlabel": "apple banana peach"
   },
   {
     "rowid": "67",
-    "colimnid": "151",
+    "columnid": "151",
     "value": 31,
     "trlabel": "peach grape kiwi"
   },
   {
     "rowid": "162",
-    "colimnid": "163",
+    "columnid": "163",
     "value": 37,
     "trlabel": "peach banana apple"
   },
   {
     "rowid": "91",
-    "colimnid": "201",
+    "columnid": "201",
     "value": 37,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "195",
-    "colimnid": "222",
+    "columnid": "222",
     "value": 46,
     "trlabel": "orange orange peach"
   },
   {
     "rowid": "44",
-    "colimnid": "92",
+    "columnid": "92",
     "value": 33,
     "trlabel": "orange banana banana"
   },
   {
     "rowid": "111",
-    "colimnid": "277",
+    "columnid": "277",
     "value": 39,
     "trlabel": "apple banana peach"
   },
   {
     "rowid": "25",
-    "colimnid": "187",
+    "columnid": "187",
     "value": 30,
     "trlabel": "grape orange grape"
   },
   {
     "rowid": "71",
-    "colimnid": "203",
+    "columnid": "203",
     "value": 49,
     "trlabel": "peach orange grape"
   },
   {
     "rowid": "29",
-    "colimnid": "146",
+    "columnid": "146",
     "value": 18,
     "trlabel": "kiwi apple grape"
   },
   {
     "rowid": "147",
-    "colimnid": "238",
+    "columnid": "238",
     "value": 34,
     "trlabel": "kiwi orange peach"
   },
   {
     "rowid": "115",
-    "colimnid": "171",
+    "columnid": "171",
     "value": 10,
     "trlabel": "kiwi peach banana"
   },
   {
     "rowid": "124",
-    "colimnid": "238",
+    "columnid": "238",
     "value": 29,
     "trlabel": "peach kiwi grape"
   },
   {
     "rowid": "165",
-    "colimnid": "81",
+    "columnid": "81",
     "value": 46,
     "trlabel": "orange orange banana"
   },
   {
     "rowid": "184",
-    "colimnid": "231",
+    "columnid": "231",
     "value": 37,
     "trlabel": "grape kiwi grape"
   },
   {
     "rowid": "172",
-    "colimnid": "210",
+    "columnid": "210",
     "value": 36,
     "trlabel": "banana banana peach"
   },
   {
     "rowid": "135",
-    "colimnid": "161",
+    "columnid": "161",
     "value": 27,
     "trlabel": "apple peach banana"
   },
   {
     "rowid": "59",
-    "colimnid": "212",
+    "columnid": "212",
     "value": 32,
     "trlabel": "grape orange orange"
   },
   {
     "rowid": "151",
-    "colimnid": "67",
+    "columnid": "67",
     "value": 20,
     "trlabel": "peach apple grape"
   },
   {
     "rowid": "122",
-    "colimnid": "52",
+    "columnid": "52",
     "value": 32,
     "trlabel": "peach peach peach"
   },
   {
     "rowid": "46",
-    "colimnid": "50",
+    "columnid": "50",
     "value": 25,
     "trlabel": "grape grape banana"
   },
   {
     "rowid": "193",
-    "colimnid": "160",
+    "columnid": "160",
     "value": 35,
     "trlabel": "kiwi orange kiwi"
   },
   {
     "rowid": "46",
-    "colimnid": "130",
+    "columnid": "130",
     "value": 22,
     "trlabel": "orange grape kiwi"
   },
   {
     "rowid": "147",
-    "colimnid": "289",
+    "columnid": "289",
     "value": 49,
     "trlabel": "orange grape peach"
   },
   {
     "rowid": "96",
-    "colimnid": "139",
+    "columnid": "139",
     "value": 48,
     "trlabel": "orange kiwi kiwi"
   },
   {
     "rowid": "199",
-    "colimnid": "151",
+    "columnid": "151",
     "value": 48,
     "trlabel": "grape banana apple"
   },
   {
     "rowid": "99",
-    "colimnid": "69",
+    "columnid": "69",
     "value": 45,
     "trlabel": "grape apple banana"
   },
   {
     "rowid": "106",
-    "colimnid": "152",
+    "columnid": "152",
     "value": 23,
     "trlabel": "grape banana apple"
   },
   {
     "rowid": "101",
-    "colimnid": "83",
+    "columnid": "83",
     "value": 41,
     "trlabel": "orange grape kiwi"
   },
   {
     "rowid": "193",
-    "colimnid": "138",
+    "columnid": "138",
     "value": 47,
     "trlabel": "grape orange grape"
   },
   {
     "rowid": "32",
-    "colimnid": "86",
+    "columnid": "86",
     "value": 19,
     "trlabel": "peach grape peach"
   },
   {
     "rowid": "159",
-    "colimnid": "132",
+    "columnid": "132",
     "value": 12,
     "trlabel": "peach orange kiwi"
   },
   {
     "rowid": "52",
-    "colimnid": "68",
+    "columnid": "68",
     "value": 20,
     "trlabel": "peach peach kiwi"
   },
   {
     "rowid": "147",
-    "colimnid": "202",
+    "columnid": "202",
     "value": 17,
     "trlabel": "peach peach peach"
   },
   {
     "rowid": "142",
-    "colimnid": "185",
+    "columnid": "185",
     "value": 39,
     "trlabel": "orange peach orange"
   },
   {
     "rowid": "174",
-    "colimnid": "115",
+    "columnid": "115",
     "value": 40,
     "trlabel": "banana banana apple"
   },
   {
     "rowid": "35",
-    "colimnid": "74",
+    "columnid": "74",
     "value": 34,
     "trlabel": "orange orange orange"
   },
   {
     "rowid": "72",
-    "colimnid": "162",
+    "columnid": "162",
     "value": 39,
     "trlabel": "kiwi orange grape"
   },
   {
     "rowid": "29",
-    "colimnid": "191",
+    "columnid": "191",
     "value": 33,
     "trlabel": "orange grape apple"
   },
   {
     "rowid": "175",
-    "colimnid": "254",
+    "columnid": "254",
     "value": 11,
     "trlabel": "grape apple kiwi"
   },
   {
     "rowid": "99",
-    "colimnid": "286",
+    "columnid": "286",
     "value": 43,
     "trlabel": "grape banana banana"
   },
   {
     "rowid": "171",
-    "colimnid": "273",
+    "columnid": "273",
     "value": 23,
     "trlabel": "grape kiwi orange"
   },
   {
     "rowid": "98",
-    "colimnid": "214",
+    "columnid": "214",
     "value": 29,
     "trlabel": "banana peach banana"
   },
   {
     "rowid": "82",
-    "colimnid": "140",
+    "columnid": "140",
     "value": 16,
     "trlabel": "apple peach kiwi"
   },
   {
     "rowid": "175",
-    "colimnid": "186",
+    "columnid": "186",
     "value": 25,
     "trlabel": "banana orange grape"
   },
   {
     "rowid": "140",
-    "colimnid": "182",
+    "columnid": "182",
     "value": 24,
     "trlabel": "grape grape kiwi"
   },
   {
     "rowid": "157",
-    "colimnid": "293",
+    "columnid": "293",
     "value": 36,
     "trlabel": "grape peach peach"
   },
   {
     "rowid": "68",
-    "colimnid": "121",
+    "columnid": "121",
     "value": 42,
     "trlabel": "kiwi apple orange"
   },
   {
     "rowid": "139",
-    "colimnid": "190",
+    "columnid": "190",
     "value": 34,
     "trlabel": "peach grape banana"
   },
   {
     "rowid": "92",
-    "colimnid": "148",
+    "columnid": "148",
     "value": 12,
     "trlabel": "grape grape orange"
   },
   {
     "rowid": "130",
-    "colimnid": "142",
+    "columnid": "142",
     "value": 26,
     "trlabel": "grape grape grape"
   },
   {
     "rowid": "107",
-    "colimnid": "145",
+    "columnid": "145",
     "value": 33,
     "trlabel": "grape kiwi banana"
   },
   {
     "rowid": "50",
-    "colimnid": "199",
+    "columnid": "199",
     "value": 27,
     "trlabel": "peach peach banana"
   },
   {
     "rowid": "32",
-    "colimnid": "141",
+    "columnid": "141",
     "value": 35,
     "trlabel": "peach kiwi peach"
   },
   {
     "rowid": "153",
-    "colimnid": "263",
+    "columnid": "263",
     "value": 49,
     "trlabel": "banana kiwi peach"
   },
   {
     "rowid": "22",
-    "colimnid": "99",
+    "columnid": "99",
     "value": 19,
     "trlabel": "apple apple orange"
   },
   {
     "rowid": "38",
-    "colimnid": "229",
+    "columnid": "229",
     "value": 25,
     "trlabel": "grape apple apple"
   },
   {
     "rowid": "111",
-    "colimnid": "178",
+    "columnid": "178",
     "value": 28,
     "trlabel": "apple banana banana"
   },
   {
     "rowid": "116",
-    "colimnid": "286",
+    "columnid": "286",
     "value": 25,
     "trlabel": "grape kiwi apple"
   },
   {
     "rowid": "47",
-    "colimnid": "192",
+    "columnid": "192",
     "value": 43,
     "trlabel": "kiwi banana orange"
   },
   {
     "rowid": "57",
-    "colimnid": "210",
+    "columnid": "210",
     "value": 33,
     "trlabel": "kiwi grape kiwi"
   },
   {
     "rowid": "87",
-    "colimnid": "156",
+    "columnid": "156",
     "value": 37,
     "trlabel": "apple grape apple"
   },
   {
     "rowid": "85",
-    "colimnid": "278",
+    "columnid": "278",
     "value": 24,
     "trlabel": "kiwi peach banana"
   },
   {
     "rowid": "26",
-    "colimnid": "64",
+    "columnid": "64",
     "value": 22,
     "trlabel": "grape banana apple"
   },
   {
     "rowid": "151",
-    "colimnid": "194",
+    "columnid": "194",
     "value": 34,
     "trlabel": "orange apple peach"
   },
   {
     "rowid": "67",
-    "colimnid": "63",
+    "columnid": "63",
     "value": 46,
     "trlabel": "peach peach grape"
   },
   {
     "rowid": "180",
-    "colimnid": "129",
+    "columnid": "129",
     "value": 15,
     "trlabel": "banana grape grape"
   },
   {
     "rowid": "77",
-    "colimnid": "160",
+    "columnid": "160",
     "value": 38,
     "trlabel": "orange peach orange"
   },
   {
     "rowid": "130",
-    "colimnid": "297",
+    "columnid": "297",
     "value": 42,
     "trlabel": "banana orange peach"
   },
   {
     "rowid": "35",
-    "colimnid": "132",
+    "columnid": "132",
     "value": 42,
     "trlabel": "grape orange peach"
   },
   {
     "rowid": "191",
-    "colimnid": "213",
+    "columnid": "213",
     "value": 14,
     "trlabel": "apple grape apple"
   },
   {
     "rowid": "84",
-    "colimnid": "219",
+    "columnid": "219",
     "value": 35,
     "trlabel": "kiwi grape peach"
   },
   {
     "rowid": "81",
-    "colimnid": "74",
+    "columnid": "74",
     "value": 27,
     "trlabel": "peach peach kiwi"
   },
   {
     "rowid": "90",
-    "colimnid": "180",
+    "columnid": "180",
     "value": 33,
     "trlabel": "banana orange grape"
   },
   {
     "rowid": "159",
-    "colimnid": "221",
+    "columnid": "221",
     "value": 33,
     "trlabel": "orange peach grape"
   },
   {
     "rowid": "50",
-    "colimnid": "195",
+    "columnid": "195",
     "value": 12,
     "trlabel": "peach peach apple"
   },
   {
     "rowid": "122",
-    "colimnid": "282",
+    "columnid": "282",
     "value": 21,
     "trlabel": "apple peach apple"
   },
   {
     "rowid": "42",
-    "colimnid": "99",
+    "columnid": "99",
     "value": 35,
     "trlabel": "banana peach apple"
   },
   {
     "rowid": "173",
-    "colimnid": "221",
+    "columnid": "221",
     "value": 43,
     "trlabel": "banana peach kiwi"
   },
   {
     "rowid": "80",
-    "colimnid": "139",
+    "columnid": "139",
     "value": 13,
     "trlabel": "apple grape banana"
   },
   {
     "rowid": "176",
-    "colimnid": "184",
+    "columnid": "184",
     "value": 39,
     "trlabel": "banana grape orange"
   },
   {
     "rowid": "20",
-    "colimnid": "251",
+    "columnid": "251",
     "value": 30,
     "trlabel": "peach orange banana"
   },
   {
     "rowid": "107",
-    "colimnid": "225",
+    "columnid": "225",
     "value": 36,
     "trlabel": "grape peach peach"
   },
   {
     "rowid": "139",
-    "colimnid": "283",
+    "columnid": "283",
     "value": 28,
     "trlabel": "grape apple peach"
   },
   {
     "rowid": "158",
-    "colimnid": "104",
+    "columnid": "104",
     "value": 35,
     "trlabel": "peach peach apple"
   },
   {
     "rowid": "185",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 16,
     "trlabel": "kiwi peach peach"
   },
   {
     "rowid": "123",
-    "colimnid": "84",
+    "columnid": "84",
     "value": 13,
     "trlabel": "apple grape kiwi"
   },
   {
     "rowid": "99",
-    "colimnid": "232",
+    "columnid": "232",
     "value": 18,
     "trlabel": "orange orange orange"
   },
   {
     "rowid": "65",
-    "colimnid": "114",
+    "columnid": "114",
     "value": 48,
     "trlabel": "peach grape grape"
   },
   {
     "rowid": "162",
-    "colimnid": "257",
+    "columnid": "257",
     "value": 48,
     "trlabel": "orange kiwi banana"
   },
   {
     "rowid": "101",
-    "colimnid": "188",
+    "columnid": "188",
     "value": 42,
     "trlabel": "peach peach kiwi"
   },
   {
     "rowid": "94",
-    "colimnid": "132",
+    "columnid": "132",
     "value": 38,
     "trlabel": "apple apple kiwi"
   },
   {
     "rowid": "123",
-    "colimnid": "169",
+    "columnid": "169",
     "value": 46,
     "trlabel": "grape orange banana"
   },
   {
     "rowid": "167",
-    "colimnid": "293",
+    "columnid": "293",
     "value": 38,
     "trlabel": "banana banana banana"
   },
   {
     "rowid": "42",
-    "colimnid": "151",
+    "columnid": "151",
     "value": 22,
     "trlabel": "banana grape orange"
   },
   {
     "rowid": "181",
-    "colimnid": "277",
+    "columnid": "277",
     "value": 27,
     "trlabel": "kiwi grape kiwi"
   },
   {
     "rowid": "57",
-    "colimnid": "197",
+    "columnid": "197",
     "value": 17,
     "trlabel": "orange apple kiwi"
   },
   {
     "rowid": "133",
-    "colimnid": "108",
+    "columnid": "108",
     "value": 44,
     "trlabel": "grape kiwi kiwi"
   },
   {
     "rowid": "156",
-    "colimnid": "212",
+    "columnid": "212",
     "value": 48,
     "trlabel": "grape banana apple"
   },
   {
     "rowid": "28",
-    "colimnid": "91",
+    "columnid": "91",
     "value": 41,
     "trlabel": "grape banana kiwi"
   },
   {
     "rowid": "196",
-    "colimnid": "159",
+    "columnid": "159",
     "value": 22,
     "trlabel": "banana grape kiwi"
   },
   {
     "rowid": "118",
-    "colimnid": "263",
+    "columnid": "263",
     "value": 13,
     "trlabel": "banana apple kiwi"
   },
   {
     "rowid": "174",
-    "colimnid": "75",
+    "columnid": "75",
     "value": 36,
     "trlabel": "grape peach orange"
   },
   {
     "rowid": "39",
-    "colimnid": "95",
+    "columnid": "95",
     "value": 47,
     "trlabel": "apple peach grape"
   },
   {
     "rowid": "96",
-    "colimnid": "210",
+    "columnid": "210",
     "value": 12,
     "trlabel": "kiwi banana orange"
   },
   {
     "rowid": "72",
-    "colimnid": "99",
+    "columnid": "99",
     "value": 17,
     "trlabel": "orange apple peach"
   },
   {
     "rowid": "198",
-    "colimnid": "120",
+    "columnid": "120",
     "value": 46,
     "trlabel": "peach apple peach"
   },
   {
     "rowid": "90",
-    "colimnid": "173",
+    "columnid": "173",
     "value": 36,
     "trlabel": "kiwi banana grape"
   },
   {
     "rowid": "144",
-    "colimnid": "133",
+    "columnid": "133",
     "value": 35,
     "trlabel": "orange peach kiwi"
   },
   {
     "rowid": "122",
-    "colimnid": "287",
+    "columnid": "287",
     "value": 21,
     "trlabel": "peach grape orange"
   },
   {
     "rowid": "93",
-    "colimnid": "62",
+    "columnid": "62",
     "value": 50,
     "trlabel": "grape grape orange"
   },
   {
     "rowid": "149",
-    "colimnid": "75",
+    "columnid": "75",
     "value": 45,
     "trlabel": "banana kiwi kiwi"
   },
   {
     "rowid": "21",
-    "colimnid": "94",
+    "columnid": "94",
     "value": 30,
     "trlabel": "peach banana kiwi"
   },
   {
     "rowid": "167",
-    "colimnid": "273",
+    "columnid": "273",
     "value": 13,
     "trlabel": "apple orange orange"
   },
   {
     "rowid": "94",
-    "colimnid": "249",
+    "columnid": "249",
     "value": 34,
     "trlabel": "kiwi banana kiwi"
   },
   {
     "rowid": "132",
-    "colimnid": "240",
+    "columnid": "240",
     "value": 12,
     "trlabel": "peach orange grape"
   },
   {
     "rowid": "74",
-    "colimnid": "210",
+    "columnid": "210",
     "value": 20,
     "trlabel": "orange banana banana"
   },
   {
     "rowid": "88",
-    "colimnid": "51",
+    "columnid": "51",
     "value": 48,
     "trlabel": "grape kiwi kiwi"
   },
   {
     "rowid": "149",
-    "colimnid": "114",
+    "columnid": "114",
     "value": 41,
     "trlabel": "banana orange grape"
   },
   {
     "rowid": "158",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 26,
     "trlabel": "kiwi orange kiwi"
   },
   {
     "rowid": "30",
-    "colimnid": "153",
+    "columnid": "153",
     "value": 15,
     "trlabel": "orange orange banana"
   },
   {
     "rowid": "61",
-    "colimnid": "219",
+    "columnid": "219",
     "value": 27,
     "trlabel": "peach apple grape"
   },
   {
     "rowid": "138",
-    "colimnid": "188",
+    "columnid": "188",
     "value": 17,
     "trlabel": "peach grape kiwi"
   },
   {
     "rowid": "155",
-    "colimnid": "239",
+    "columnid": "239",
     "value": 15,
     "trlabel": "peach banana orange"
   },
   {
     "rowid": "143",
-    "colimnid": "152",
+    "columnid": "152",
     "value": 21,
     "trlabel": "banana kiwi kiwi"
   },
   {
     "rowid": "67",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 25,
     "trlabel": "kiwi grape apple"
   },
   {
     "rowid": "60",
-    "colimnid": "214",
+    "columnid": "214",
     "value": 13,
     "trlabel": "kiwi peach peach"
   },
   {
     "rowid": "181",
-    "colimnid": "158",
+    "columnid": "158",
     "value": 29,
     "trlabel": "kiwi kiwi banana"
   },
   {
     "rowid": "181",
-    "colimnid": "216",
+    "columnid": "216",
     "value": 23,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "119",
-    "colimnid": "216",
+    "columnid": "216",
     "value": 26,
     "trlabel": "peach orange banana"
   },
   {
     "rowid": "170",
-    "colimnid": "114",
+    "columnid": "114",
     "value": 43,
     "trlabel": "apple banana apple"
   },
   {
     "rowid": "53",
-    "colimnid": "133",
+    "columnid": "133",
     "value": 39,
     "trlabel": "orange apple apple"
   },
   {
     "rowid": "30",
-    "colimnid": "157",
+    "columnid": "157",
     "value": 18,
     "trlabel": "peach peach apple"
   },
   {
     "rowid": "140",
-    "colimnid": "262",
+    "columnid": "262",
     "value": 43,
     "trlabel": "peach orange orange"
   },
   {
     "rowid": "147",
-    "colimnid": "75",
+    "columnid": "75",
     "value": 16,
     "trlabel": "grape orange banana"
   },
   {
     "rowid": "47",
-    "colimnid": "265",
+    "columnid": "265",
     "value": 39,
     "trlabel": "apple banana orange"
   },
   {
     "rowid": "75",
-    "colimnid": "232",
+    "columnid": "232",
     "value": 29,
     "trlabel": "grape kiwi peach"
   },
   {
     "rowid": "71",
-    "colimnid": "202",
+    "columnid": "202",
     "value": 49,
     "trlabel": "apple kiwi grape"
   },
   {
     "rowid": "48",
-    "colimnid": "200",
+    "columnid": "200",
     "value": 32,
     "trlabel": "banana apple apple"
   },
   {
     "rowid": "95",
-    "colimnid": "281",
+    "columnid": "281",
     "value": 14,
     "trlabel": "grape banana peach"
   },
   {
     "rowid": "98",
-    "colimnid": "280",
+    "columnid": "280",
     "value": 43,
     "trlabel": "grape kiwi kiwi"
   },
   {
     "rowid": "67",
-    "colimnid": "185",
+    "columnid": "185",
     "value": 20,
     "trlabel": "apple orange apple"
   },
   {
     "rowid": "88",
-    "colimnid": "233",
+    "columnid": "233",
     "value": 20,
     "trlabel": "grape peach apple"
   },
   {
     "rowid": "176",
-    "colimnid": "153",
+    "columnid": "153",
     "value": 29,
     "trlabel": "grape grape kiwi"
   },
   {
     "rowid": "61",
-    "colimnid": "99",
+    "columnid": "99",
     "value": 21,
     "trlabel": "kiwi grape peach"
   },
   {
     "rowid": "133",
-    "colimnid": "139",
+    "columnid": "139",
     "value": 13,
     "trlabel": "apple banana orange"
   },
   {
     "rowid": "146",
-    "colimnid": "85",
+    "columnid": "85",
     "value": 38,
     "trlabel": "grape orange banana"
   },
   {
     "rowid": "83",
-    "colimnid": "191",
+    "columnid": "191",
     "value": 40,
     "trlabel": "peach peach orange"
   },
   {
     "rowid": "118",
-    "colimnid": "80",
+    "columnid": "80",
     "value": 40,
     "trlabel": "apple grape grape"
   },
   {
     "rowid": "73",
-    "colimnid": "191",
+    "columnid": "191",
     "value": 10,
     "trlabel": "grape apple peach"
   },
   {
     "rowid": "158",
-    "colimnid": "141",
+    "columnid": "141",
     "value": 43,
     "trlabel": "orange peach banana"
   },
   {
     "rowid": "35",
-    "colimnid": "117",
+    "columnid": "117",
     "value": 27,
     "trlabel": "banana peach kiwi"
   },
   {
     "rowid": "137",
-    "colimnid": "225",
+    "columnid": "225",
     "value": 22,
     "trlabel": "peach orange peach"
   },
   {
     "rowid": "175",
-    "colimnid": "81",
+    "columnid": "81",
     "value": 38,
     "trlabel": "grape grape orange"
   },
   {
     "rowid": "67",
-    "colimnid": "156",
+    "columnid": "156",
     "value": 25,
     "trlabel": "grape grape peach"
   },
   {
     "rowid": "153",
-    "colimnid": "71",
+    "columnid": "71",
     "value": 17,
     "trlabel": "peach kiwi kiwi"
   },
   {
     "rowid": "138",
-    "colimnid": "195",
+    "columnid": "195",
     "value": 48,
     "trlabel": "banana grape grape"
   },
   {
     "rowid": "143",
-    "colimnid": "63",
+    "columnid": "63",
     "value": 29,
     "trlabel": "apple grape peach"
   },
   {
     "rowid": "187",
-    "colimnid": "202",
+    "columnid": "202",
     "value": 11,
     "trlabel": "apple banana peach"
   },
   {
     "rowid": "107",
-    "colimnid": "241",
+    "columnid": "241",
     "value": 20,
     "trlabel": "grape orange grape"
   },
   {
     "rowid": "38",
-    "colimnid": "198",
+    "columnid": "198",
     "value": 44,
     "trlabel": "grape peach apple"
   },
   {
     "rowid": "134",
-    "colimnid": "108",
+    "columnid": "108",
     "value": 32,
     "trlabel": "banana peach apple"
   },
   {
     "rowid": "75",
-    "colimnid": "94",
+    "columnid": "94",
     "value": 39,
     "trlabel": "peach orange banana"
   },
   {
     "rowid": "104",
-    "colimnid": "230",
+    "columnid": "230",
     "value": 33,
     "trlabel": "banana orange kiwi"
   },
   {
     "rowid": "132",
-    "colimnid": "87",
+    "columnid": "87",
     "value": 22,
     "trlabel": "kiwi banana banana"
   },
   {
     "rowid": "44",
-    "colimnid": "96",
+    "columnid": "96",
     "value": 34,
     "trlabel": "banana banana banana"
   },
   {
     "rowid": "25",
-    "colimnid": "204",
+    "columnid": "204",
     "value": 14,
     "trlabel": "grape banana kiwi"
   },
   {
     "rowid": "88",
-    "colimnid": "175",
+    "columnid": "175",
     "value": 47,
     "trlabel": "orange kiwi banana"
   },
   {
     "rowid": "172",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 30,
     "trlabel": "grape banana peach"
   },
   {
     "rowid": "34",
-    "colimnid": "116",
+    "columnid": "116",
     "value": 27,
     "trlabel": "orange peach apple"
   },
   {
     "rowid": "30",
-    "colimnid": "148",
+    "columnid": "148",
     "value": 40,
     "trlabel": "apple banana kiwi"
   },
   {
     "rowid": "20",
-    "colimnid": "262",
+    "columnid": "262",
     "value": 23,
     "trlabel": "orange orange banana"
   },
   {
     "rowid": "151",
-    "colimnid": "271",
+    "columnid": "271",
     "value": 27,
     "trlabel": "orange peach apple"
   },
   {
     "rowid": "25",
-    "colimnid": "247",
+    "columnid": "247",
     "value": 34,
     "trlabel": "kiwi kiwi orange"
   },
   {
     "rowid": "127",
-    "colimnid": "280",
+    "columnid": "280",
     "value": 29,
     "trlabel": "orange kiwi grape"
   },
   {
     "rowid": "74",
-    "colimnid": "162",
+    "columnid": "162",
     "value": 42,
     "trlabel": "grape grape banana"
   },
   {
     "rowid": "59",
-    "colimnid": "239",
+    "columnid": "239",
     "value": 18,
     "trlabel": "banana kiwi apple"
   },
   {
     "rowid": "30",
-    "colimnid": "73",
+    "columnid": "73",
     "value": 13,
     "trlabel": "apple banana kiwi"
   },
   {
     "rowid": "59",
-    "colimnid": "151",
+    "columnid": "151",
     "value": 15,
     "trlabel": "peach banana orange"
   },
   {
     "rowid": "148",
-    "colimnid": "241",
+    "columnid": "241",
     "value": 13,
     "trlabel": "peach grape apple"
   },
   {
     "rowid": "48",
-    "colimnid": "115",
+    "columnid": "115",
     "value": 37,
     "trlabel": "apple orange grape"
   },
   {
     "rowid": "163",
-    "colimnid": "235",
+    "columnid": "235",
     "value": 39,
     "trlabel": "peach orange peach"
   },
   {
     "rowid": "26",
-    "colimnid": "128",
+    "columnid": "128",
     "value": 29,
     "trlabel": "kiwi banana apple"
   },
   {
     "rowid": "103",
-    "colimnid": "206",
+    "columnid": "206",
     "value": 29,
     "trlabel": "peach orange kiwi"
   },
   {
     "rowid": "104",
-    "colimnid": "73",
+    "columnid": "73",
     "value": 31,
     "trlabel": "peach orange grape"
   },
   {
     "rowid": "132",
-    "colimnid": "60",
+    "columnid": "60",
     "value": 40,
     "trlabel": "apple apple grape"
   },
   {
     "rowid": "156",
-    "colimnid": "274",
+    "columnid": "274",
     "value": 34,
     "trlabel": "orange banana peach"
   },
   {
     "rowid": "154",
-    "colimnid": "234",
+    "columnid": "234",
     "value": 23,
     "trlabel": "kiwi kiwi peach"
   },
   {
     "rowid": "193",
-    "colimnid": "198",
+    "columnid": "198",
     "value": 49,
     "trlabel": "orange kiwi apple"
   },
   {
     "rowid": "103",
-    "colimnid": "225",
+    "columnid": "225",
     "value": 48,
     "trlabel": "grape kiwi apple"
   },
   {
     "rowid": "25",
-    "colimnid": "110",
+    "columnid": "110",
     "value": 41,
     "trlabel": "orange kiwi grape"
   },
   {
     "rowid": "127",
-    "colimnid": "152",
+    "columnid": "152",
     "value": 37,
     "trlabel": "kiwi apple orange"
   },
   {
     "rowid": "92",
-    "colimnid": "261",
+    "columnid": "261",
     "value": 46,
     "trlabel": "kiwi apple banana"
   },
   {
     "rowid": "53",
-    "colimnid": "186",
+    "columnid": "186",
     "value": 14,
     "trlabel": "orange orange banana"
   },
   {
     "rowid": "28",
-    "colimnid": "156",
+    "columnid": "156",
     "value": 27,
     "trlabel": "banana peach orange"
   },
   {
     "rowid": "74",
-    "colimnid": "294",
+    "columnid": "294",
     "value": 12,
     "trlabel": "peach kiwi banana"
   },
   {
     "rowid": "84",
-    "colimnid": "171",
+    "columnid": "171",
     "value": 40,
     "trlabel": "kiwi kiwi peach"
   },
   {
     "rowid": "175",
-    "colimnid": "181",
+    "columnid": "181",
     "value": 33,
     "trlabel": "kiwi kiwi orange"
   },
   {
     "rowid": "39",
-    "colimnid": "252",
+    "columnid": "252",
     "value": 22,
     "trlabel": "grape kiwi grape"
   },
   {
     "rowid": "143",
-    "colimnid": "210",
+    "columnid": "210",
     "value": 12,
     "trlabel": "kiwi apple apple"
   },
   {
     "rowid": "111",
-    "colimnid": "118",
+    "columnid": "118",
     "value": 16,
     "trlabel": "orange kiwi kiwi"
   },
   {
     "rowid": "100",
-    "colimnid": "77",
+    "columnid": "77",
     "value": 17,
     "trlabel": "banana peach banana"
   },
   {
     "rowid": "51",
-    "colimnid": "154",
+    "columnid": "154",
     "value": 20,
     "trlabel": "peach peach banana"
   },
   {
     "rowid": "133",
-    "colimnid": "147",
+    "columnid": "147",
     "value": 10,
     "trlabel": "apple grape grape"
   },
   {
     "rowid": "81",
-    "colimnid": "280",
+    "columnid": "280",
     "value": 49,
     "trlabel": "kiwi banana peach"
   },
   {
     "rowid": "39",
-    "colimnid": "159",
+    "columnid": "159",
     "value": 33,
     "trlabel": "peach kiwi peach"
   },
   {
     "rowid": "113",
-    "colimnid": "103",
+    "columnid": "103",
     "value": 39,
     "trlabel": "grape kiwi kiwi"
   },
   {
     "rowid": "185",
-    "colimnid": "237",
+    "columnid": "237",
     "value": 15,
     "trlabel": "orange banana orange"
   },
   {
     "rowid": "100",
-    "colimnid": "252",
+    "columnid": "252",
     "value": 43,
     "trlabel": "grape peach peach"
   },
   {
     "rowid": "107",
-    "colimnid": "272",
+    "columnid": "272",
     "value": 19,
     "trlabel": "banana apple peach"
   },
   {
     "rowid": "63",
-    "colimnid": "74",
+    "columnid": "74",
     "value": 17,
     "trlabel": "orange kiwi grape"
   },
   {
     "rowid": "121",
-    "colimnid": "197",
+    "columnid": "197",
     "value": 12,
     "trlabel": "grape peach kiwi"
   },
   {
     "rowid": "177",
-    "colimnid": "134",
+    "columnid": "134",
     "value": 30,
     "trlabel": "peach kiwi banana"
   },
   {
     "rowid": "194",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 14,
     "trlabel": "banana grape apple"
   },
   {
     "rowid": "25",
-    "colimnid": "299",
+    "columnid": "299",
     "value": 40,
     "trlabel": "kiwi peach kiwi"
   },
   {
     "rowid": "24",
-    "colimnid": "208",
+    "columnid": "208",
     "value": 10,
     "trlabel": "apple kiwi kiwi"
   },
   {
     "rowid": "59",
-    "colimnid": "70",
+    "columnid": "70",
     "value": 46,
     "trlabel": "apple banana orange"
   },
   {
     "rowid": "110",
-    "colimnid": "57",
+    "columnid": "57",
     "value": 16,
     "trlabel": "apple apple kiwi"
   },
   {
     "rowid": "22",
-    "colimnid": "73",
+    "columnid": "73",
     "value": 40,
     "trlabel": "kiwi peach kiwi"
   },
   {
     "rowid": "105",
-    "colimnid": "271",
+    "columnid": "271",
     "value": 12,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "69",
-    "colimnid": "231",
+    "columnid": "231",
     "value": 35,
     "trlabel": "grape kiwi grape"
   },
   {
     "rowid": "151",
-    "colimnid": "174",
+    "columnid": "174",
     "value": 32,
     "trlabel": "apple apple kiwi"
   },
   {
     "rowid": "194",
-    "colimnid": "180",
+    "columnid": "180",
     "value": 30,
     "trlabel": "apple apple apple"
   },
   {
     "rowid": "154",
-    "colimnid": "55",
+    "columnid": "55",
     "value": 32,
     "trlabel": "banana apple grape"
   },
   {
     "rowid": "51",
-    "colimnid": "269",
+    "columnid": "269",
     "value": 10,
     "trlabel": "banana kiwi orange"
   },
   {
     "rowid": "181",
-    "colimnid": "86",
+    "columnid": "86",
     "value": 42,
     "trlabel": "kiwi kiwi orange"
   },
   {
     "rowid": "98",
-    "colimnid": "115",
+    "columnid": "115",
     "value": 16,
     "trlabel": "banana kiwi peach"
   },
   {
     "rowid": "172",
-    "colimnid": "262",
+    "columnid": "262",
     "value": 13,
     "trlabel": "grape grape kiwi"
   },
   {
     "rowid": "40",
-    "colimnid": "136",
+    "columnid": "136",
     "value": 16,
     "trlabel": "apple orange apple"
   },
   {
     "rowid": "169",
-    "colimnid": "217",
+    "columnid": "217",
     "value": 43,
     "trlabel": "orange grape banana"
   },
   {
     "rowid": "79",
-    "colimnid": "285",
+    "columnid": "285",
     "value": 27,
     "trlabel": "apple banana apple"
   },
   {
     "rowid": "146",
-    "colimnid": "268",
+    "columnid": "268",
     "value": 20,
     "trlabel": "apple kiwi peach"
   },
   {
     "rowid": "43",
-    "colimnid": "113",
+    "columnid": "113",
     "value": 15,
     "trlabel": "kiwi apple banana"
   },
   {
     "rowid": "61",
-    "colimnid": "239",
+    "columnid": "239",
     "value": 46,
     "trlabel": "grape apple orange"
   },
   {
     "rowid": "145",
-    "colimnid": "145",
+    "columnid": "145",
     "value": 49,
     "trlabel": "banana kiwi grape"
   },
   {
     "rowid": "45",
-    "colimnid": "74",
+    "columnid": "74",
     "value": 20,
     "trlabel": "apple grape peach"
   },
   {
     "rowid": "195",
-    "colimnid": "209",
+    "columnid": "209",
     "value": 47,
     "trlabel": "apple apple banana"
   },
   {
     "rowid": "113",
-    "colimnid": "144",
+    "columnid": "144",
     "value": 11,
     "trlabel": "orange orange peach"
   },
   {
     "rowid": "98",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 22,
     "trlabel": "orange grape banana"
   },
   {
     "rowid": "137",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 41,
     "trlabel": "grape kiwi banana"
   },
   {
     "rowid": "178",
-    "colimnid": "119",
+    "columnid": "119",
     "value": 46,
     "trlabel": "orange grape orange"
   },
   {
     "rowid": "171",
-    "colimnid": "252",
+    "columnid": "252",
     "value": 42,
     "trlabel": "kiwi grape orange"
   },
   {
     "rowid": "78",
-    "colimnid": "79",
+    "columnid": "79",
     "value": 48,
     "trlabel": "grape banana kiwi"
   },
   {
     "rowid": "164",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 30,
     "trlabel": "grape peach banana"
   },
   {
     "rowid": "178",
-    "colimnid": "74",
+    "columnid": "74",
     "value": 14,
     "trlabel": "apple kiwi banana"
   },
   {
     "rowid": "169",
-    "colimnid": "287",
+    "columnid": "287",
     "value": 16,
     "trlabel": "peach peach banana"
   },
   {
     "rowid": "29",
-    "colimnid": "129",
+    "columnid": "129",
     "value": 24,
     "trlabel": "banana grape grape"
   },
   {
     "rowid": "68",
-    "colimnid": "55",
+    "columnid": "55",
     "value": 42,
     "trlabel": "peach orange orange"
   },
   {
     "rowid": "189",
-    "colimnid": "247",
+    "columnid": "247",
     "value": 47,
     "trlabel": "grape grape apple"
   },
   {
     "rowid": "182",
-    "colimnid": "151",
+    "columnid": "151",
     "value": 11,
     "trlabel": "kiwi grape kiwi"
   },
   {
     "rowid": "89",
-    "colimnid": "120",
+    "columnid": "120",
     "value": 43,
     "trlabel": "kiwi peach peach"
   },
   {
     "rowid": "57",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 50,
     "trlabel": "apple orange apple"
   },
   {
     "rowid": "35",
-    "colimnid": "231",
+    "columnid": "231",
     "value": 35,
     "trlabel": "orange kiwi peach"
   },
   {
     "rowid": "122",
-    "colimnid": "235",
+    "columnid": "235",
     "value": 11,
     "trlabel": "apple kiwi peach"
   },
   {
     "rowid": "30",
-    "colimnid": "90",
+    "columnid": "90",
     "value": 47,
     "trlabel": "apple grape peach"
   },
   {
     "rowid": "141",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 16,
     "trlabel": "grape peach grape"
   },
   {
     "rowid": "165",
-    "colimnid": "263",
+    "columnid": "263",
     "value": 49,
     "trlabel": "peach apple peach"
   },
   {
     "rowid": "27",
-    "colimnid": "126",
+    "columnid": "126",
     "value": 30,
     "trlabel": "grape kiwi kiwi"
   },
   {
     "rowid": "189",
-    "colimnid": "136",
+    "columnid": "136",
     "value": 44,
     "trlabel": "grape grape apple"
   },
   {
     "rowid": "178",
-    "colimnid": "294",
+    "columnid": "294",
     "value": 24,
     "trlabel": "banana banana peach"
   },
   {
     "rowid": "61",
-    "colimnid": "193",
+    "columnid": "193",
     "value": 15,
     "trlabel": "kiwi apple apple"
   },
   {
     "rowid": "158",
-    "colimnid": "290",
+    "columnid": "290",
     "value": 49,
     "trlabel": "kiwi kiwi peach"
   },
   {
     "rowid": "124",
-    "colimnid": "229",
+    "columnid": "229",
     "value": 21,
     "trlabel": "apple banana orange"
   },
   {
     "rowid": "118",
-    "colimnid": "263",
+    "columnid": "263",
     "value": 45,
     "trlabel": "apple kiwi apple"
   },
   {
     "rowid": "79",
-    "colimnid": "151",
+    "columnid": "151",
     "value": 23,
     "trlabel": "apple banana apple"
   },
   {
     "rowid": "186",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 26,
     "trlabel": "banana grape grape"
   },
   {
     "rowid": "66",
-    "colimnid": "265",
+    "columnid": "265",
     "value": 26,
     "trlabel": "apple grape grape"
   },
   {
     "rowid": "84",
-    "colimnid": "205",
+    "columnid": "205",
     "value": 22,
     "trlabel": "kiwi apple peach"
   },
   {
     "rowid": "44",
-    "colimnid": "98",
+    "columnid": "98",
     "value": 34,
     "trlabel": "orange apple grape"
   },
   {
     "rowid": "163",
-    "colimnid": "265",
+    "columnid": "265",
     "value": 41,
     "trlabel": "peach banana apple"
   },
   {
     "rowid": "191",
-    "colimnid": "110",
+    "columnid": "110",
     "value": 41,
     "trlabel": "peach peach orange"
   },
   {
     "rowid": "45",
-    "colimnid": "62",
+    "columnid": "62",
     "value": 44,
     "trlabel": "banana banana banana"
   },
   {
     "rowid": "110",
-    "colimnid": "105",
+    "columnid": "105",
     "value": 21,
     "trlabel": "grape apple orange"
   },
   {
     "rowid": "87",
-    "colimnid": "81",
+    "columnid": "81",
     "value": 19,
     "trlabel": "kiwi kiwi peach"
   },
   {
     "rowid": "154",
-    "colimnid": "124",
+    "columnid": "124",
     "value": 31,
     "trlabel": "apple kiwi orange"
   },
   {
     "rowid": "164",
-    "colimnid": "152",
+    "columnid": "152",
     "value": 32,
     "trlabel": "apple orange orange"
   },
   {
     "rowid": "178",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 24,
     "trlabel": "orange banana banana"
   },
   {
     "rowid": "45",
-    "colimnid": "250",
+    "columnid": "250",
     "value": 18,
     "trlabel": "peach banana apple"
   },
   {
     "rowid": "51",
-    "colimnid": "182",
+    "columnid": "182",
     "value": 12,
     "trlabel": "kiwi banana grape"
   },
   {
     "rowid": "165",
-    "colimnid": "56",
+    "columnid": "56",
     "value": 11,
     "trlabel": "kiwi banana apple"
   },
   {
     "rowid": "124",
-    "colimnid": "210",
+    "columnid": "210",
     "value": 47,
     "trlabel": "peach apple apple"
   },
   {
     "rowid": "84",
-    "colimnid": "203",
+    "columnid": "203",
     "value": 27,
     "trlabel": "peach grape orange"
   },
   {
     "rowid": "154",
-    "colimnid": "298",
+    "columnid": "298",
     "value": 31,
     "trlabel": "peach apple peach"
   },
   {
     "rowid": "176",
-    "colimnid": "226",
+    "columnid": "226",
     "value": 15,
     "trlabel": "grape banana orange"
   },
   {
     "rowid": "76",
-    "colimnid": "74",
+    "columnid": "74",
     "value": 41,
     "trlabel": "grape apple kiwi"
   },
   {
     "rowid": "107",
-    "colimnid": "213",
+    "columnid": "213",
     "value": 22,
     "trlabel": "apple peach orange"
   },
   {
     "rowid": "72",
-    "colimnid": "170",
+    "columnid": "170",
     "value": 43,
     "trlabel": "grape apple kiwi"
   },
   {
     "rowid": "44",
-    "colimnid": "176",
+    "columnid": "176",
     "value": 37,
     "trlabel": "peach apple apple"
   },
   {
     "rowid": "138",
-    "colimnid": "198",
+    "columnid": "198",
     "value": 21,
     "trlabel": "peach apple peach"
   },
   {
     "rowid": "100",
-    "colimnid": "198",
+    "columnid": "198",
     "value": 34,
     "trlabel": "orange grape kiwi"
   },
   {
     "rowid": "122",
-    "colimnid": "123",
+    "columnid": "123",
     "value": 50,
     "trlabel": "banana kiwi peach"
   },
   {
     "rowid": "118",
-    "colimnid": "296",
+    "columnid": "296",
     "value": 25,
     "trlabel": "peach apple grape"
   },
   {
     "rowid": "157",
-    "colimnid": "150",
+    "columnid": "150",
     "value": 13,
     "trlabel": "peach grape orange"
   },
   {
     "rowid": "118",
-    "colimnid": "91",
+    "columnid": "91",
     "value": 44,
     "trlabel": "orange peach peach"
   },
   {
     "rowid": "22",
-    "colimnid": "102",
+    "columnid": "102",
     "value": 43,
     "trlabel": "grape kiwi peach"
   },
   {
     "rowid": "173",
-    "colimnid": "66",
+    "columnid": "66",
     "value": 22,
     "trlabel": "banana kiwi grape"
   },
   {
     "rowid": "40",
-    "colimnid": "284",
+    "columnid": "284",
     "value": 10,
     "trlabel": "kiwi banana apple"
   },
   {
     "rowid": "42",
-    "colimnid": "115",
+    "columnid": "115",
     "value": 27,
     "trlabel": "orange banana grape"
   },
   {
     "rowid": "115",
-    "colimnid": "259",
+    "columnid": "259",
     "value": 46,
     "trlabel": "grape grape banana"
   },
   {
     "rowid": "54",
-    "colimnid": "245",
+    "columnid": "245",
     "value": 12,
     "trlabel": "apple peach apple"
   },
   {
     "rowid": "137",
-    "colimnid": "283",
+    "columnid": "283",
     "value": 49,
     "trlabel": "kiwi kiwi grape"
   },
   {
     "rowid": "166",
-    "colimnid": "267",
+    "columnid": "267",
     "value": 19,
     "trlabel": "banana banana grape"
   },
   {
     "rowid": "179",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 26,
     "trlabel": "grape orange kiwi"
   },
   {
     "rowid": "89",
-    "colimnid": "278",
+    "columnid": "278",
     "value": 33,
     "trlabel": "banana peach orange"
   },
   {
     "rowid": "118",
-    "colimnid": "298",
+    "columnid": "298",
     "value": 17,
     "trlabel": "kiwi banana banana"
   },
   {
     "rowid": "187",
-    "colimnid": "137",
+    "columnid": "137",
     "value": 24,
     "trlabel": "kiwi banana apple"
   },
   {
     "rowid": "30",
-    "colimnid": "57",
+    "columnid": "57",
     "value": 46,
     "trlabel": "banana grape banana"
   },
   {
     "rowid": "35",
-    "colimnid": "215",
+    "columnid": "215",
     "value": 42,
     "trlabel": "apple orange peach"
   },
   {
     "rowid": "121",
-    "colimnid": "97",
+    "columnid": "97",
     "value": 43,
     "trlabel": "orange apple grape"
   },
   {
     "rowid": "40",
-    "colimnid": "199",
+    "columnid": "199",
     "value": 10,
     "trlabel": "kiwi kiwi kiwi"
   },
   {
     "rowid": "105",
-    "colimnid": "201",
+    "columnid": "201",
     "value": 40,
     "trlabel": "peach kiwi orange"
   },
   {
     "rowid": "179",
-    "colimnid": "198",
+    "columnid": "198",
     "value": 42,
     "trlabel": "grape peach peach"
   },
   {
     "rowid": "117",
-    "colimnid": "135",
+    "columnid": "135",
     "value": 38,
     "trlabel": "apple orange apple"
   },
   {
     "rowid": "143",
-    "colimnid": "167",
+    "columnid": "167",
     "value": 48,
     "trlabel": "orange peach kiwi"
   },
   {
     "rowid": "146",
-    "colimnid": "261",
+    "columnid": "261",
     "value": 48,
     "trlabel": "grape kiwi banana"
   },
   {
     "rowid": "154",
-    "colimnid": "69",
+    "columnid": "69",
     "value": 18,
     "trlabel": "peach apple grape"
   },
   {
     "rowid": "78",
-    "colimnid": "144",
+    "columnid": "144",
     "value": 28,
     "trlabel": "orange grape apple"
   },
   {
     "rowid": "73",
-    "colimnid": "108",
+    "columnid": "108",
     "value": 44,
     "trlabel": "peach kiwi peach"
   },
   {
     "rowid": "51",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 38,
     "trlabel": "kiwi grape kiwi"
   },
   {
     "rowid": "41",
-    "colimnid": "134",
+    "columnid": "134",
     "value": 39,
     "trlabel": "orange apple banana"
   },
   {
     "rowid": "140",
-    "colimnid": "129",
+    "columnid": "129",
     "value": 36,
     "trlabel": "grape grape grape"
   },
   {
     "rowid": "152",
-    "colimnid": "213",
+    "columnid": "213",
     "value": 23,
     "trlabel": "kiwi grape banana"
   },
   {
     "rowid": "182",
-    "colimnid": "212",
+    "columnid": "212",
     "value": 15,
     "trlabel": "grape orange orange"
   },
   {
     "rowid": "46",
-    "colimnid": "160",
+    "columnid": "160",
     "value": 46,
     "trlabel": "banana apple peach"
   },
   {
     "rowid": "128",
-    "colimnid": "123",
+    "columnid": "123",
     "value": 16,
     "trlabel": "apple kiwi peach"
   },
   {
     "rowid": "176",
-    "colimnid": "268",
+    "columnid": "268",
     "value": 17,
     "trlabel": "kiwi banana orange"
   },
   {
     "rowid": "191",
-    "colimnid": "58",
+    "columnid": "58",
     "value": 22,
     "trlabel": "grape apple orange"
   },
   {
     "rowid": "184",
-    "colimnid": "86",
+    "columnid": "86",
     "value": 16,
     "trlabel": "apple apple peach"
   },
   {
     "rowid": "175",
-    "colimnid": "156",
+    "columnid": "156",
     "value": 37,
     "trlabel": "peach orange orange"
   },
   {
     "rowid": "153",
-    "colimnid": "130",
+    "columnid": "130",
     "value": 43,
     "trlabel": "banana kiwi apple"
   },
   {
     "rowid": "42",
-    "colimnid": "180",
+    "columnid": "180",
     "value": 28,
     "trlabel": "apple peach kiwi"
   },
   {
     "rowid": "189",
-    "colimnid": "254",
+    "columnid": "254",
     "value": 12,
     "trlabel": "grape apple orange"
   },
   {
     "rowid": "146",
-    "colimnid": "135",
+    "columnid": "135",
     "value": 33,
     "trlabel": "kiwi grape banana"
   },
   {
     "rowid": "102",
-    "colimnid": "239",
+    "columnid": "239",
     "value": 47,
     "trlabel": "banana orange peach"
   },
   {
     "rowid": "70",
-    "colimnid": "63",
+    "columnid": "63",
     "value": 10,
     "trlabel": "banana orange kiwi"
   },
   {
     "rowid": "91",
-    "colimnid": "113",
+    "columnid": "113",
     "value": 16,
     "trlabel": "peach apple banana"
   },
   {
     "rowid": "120",
-    "colimnid": "120",
+    "columnid": "120",
     "value": 22,
     "trlabel": "grape apple peach"
   },
   {
     "rowid": "146",
-    "colimnid": "115",
+    "columnid": "115",
     "value": 40,
     "trlabel": "kiwi orange kiwi"
   },
   {
     "rowid": "119",
-    "colimnid": "121",
+    "columnid": "121",
     "value": 44,
     "trlabel": "apple peach kiwi"
   },
   {
     "rowid": "36",
-    "colimnid": "214",
+    "columnid": "214",
     "value": 28,
     "trlabel": "apple apple peach"
   },
   {
     "rowid": "135",
-    "colimnid": "198",
+    "columnid": "198",
     "value": 35,
     "trlabel": "peach kiwi kiwi"
   },
   {
     "rowid": "189",
-    "colimnid": "109",
+    "columnid": "109",
     "value": 15,
     "trlabel": "banana orange apple"
   },
   {
     "rowid": "121",
-    "colimnid": "230",
+    "columnid": "230",
     "value": 18,
     "trlabel": "peach kiwi orange"
   },
   {
     "rowid": "27",
-    "colimnid": "186",
+    "columnid": "186",
     "value": 11,
     "trlabel": "grape peach banana"
   },
   {
     "rowid": "166",
-    "colimnid": "197",
+    "columnid": "197",
     "value": 10,
     "trlabel": "apple banana grape"
   },
   {
     "rowid": "135",
-    "colimnid": "55",
+    "columnid": "55",
     "value": 15,
     "trlabel": "banana orange apple"
   },
   {
     "rowid": "141",
-    "colimnid": "122",
+    "columnid": "122",
     "value": 22,
     "trlabel": "banana grape apple"
   },
   {
     "rowid": "134",
-    "colimnid": "131",
+    "columnid": "131",
     "value": 22,
     "trlabel": "peach kiwi peach"
   },
   {
     "rowid": "150",
-    "colimnid": "206",
+    "columnid": "206",
     "value": 47,
     "trlabel": "banana grape grape"
   },
   {
     "rowid": "126",
-    "colimnid": "83",
+    "columnid": "83",
     "value": 23,
     "trlabel": "banana grape kiwi"
   },
   {
     "rowid": "29",
-    "colimnid": "65",
+    "columnid": "65",
     "value": 37,
     "trlabel": "grape orange grape"
   },
   {
     "rowid": "67",
-    "colimnid": "270",
+    "columnid": "270",
     "value": 48,
     "trlabel": "banana apple apple"
   },
   {
     "rowid": "50",
-    "colimnid": "283",
+    "columnid": "283",
     "value": 14,
     "trlabel": "peach apple grape"
   },
   {
     "rowid": "190",
-    "colimnid": "217",
+    "columnid": "217",
     "value": 25,
     "trlabel": "kiwi apple grape"
   },
   {
     "rowid": "174",
-    "colimnid": "178",
+    "columnid": "178",
     "value": 37,
     "trlabel": "apple grape banana"
   },
   {
     "rowid": "140",
-    "colimnid": "267",
+    "columnid": "267",
     "value": 14,
     "trlabel": "banana peach apple"
   },
   {
     "rowid": "39",
-    "colimnid": "118",
+    "columnid": "118",
     "value": 32,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "130",
-    "colimnid": "229",
+    "columnid": "229",
     "value": 31,
     "trlabel": "apple kiwi apple"
   },
   {
     "rowid": "27",
-    "colimnid": "64",
+    "columnid": "64",
     "value": 35,
     "trlabel": "apple banana grape"
   },
   {
     "rowid": "154",
-    "colimnid": "53",
+    "columnid": "53",
     "value": 17,
     "trlabel": "peach grape kiwi"
   },
   {
     "rowid": "56",
-    "colimnid": "86",
+    "columnid": "86",
     "value": 46,
     "trlabel": "kiwi peach banana"
   },
   {
     "rowid": "117",
-    "colimnid": "154",
+    "columnid": "154",
     "value": 30,
     "trlabel": "orange banana peach"
   },
   {
     "rowid": "180",
-    "colimnid": "182",
+    "columnid": "182",
     "value": 25,
     "trlabel": "peach kiwi apple"
   },
   {
     "rowid": "131",
-    "colimnid": "186",
+    "columnid": "186",
     "value": 17,
     "trlabel": "orange apple grape"
   },
   {
     "rowid": "43",
-    "colimnid": "218",
+    "columnid": "218",
     "value": 10,
     "trlabel": "banana apple kiwi"
   },
   {
     "rowid": "182",
-    "colimnid": "187",
+    "columnid": "187",
     "value": 21,
     "trlabel": "kiwi apple grape"
   },
   {
     "rowid": "89",
-    "colimnid": "129",
+    "columnid": "129",
     "value": 40,
     "trlabel": "grape banana orange"
   },
   {
     "rowid": "76",
-    "colimnid": "252",
+    "columnid": "252",
     "value": 22,
     "trlabel": "apple orange banana"
   },
   {
     "rowid": "197",
-    "colimnid": "184",
+    "columnid": "184",
     "value": 50,
     "trlabel": "apple grape apple"
   },
   {
     "rowid": "68",
-    "colimnid": "52",
+    "columnid": "52",
     "value": 43,
     "trlabel": "peach peach peach"
   },
   {
     "rowid": "64",
-    "colimnid": "252",
+    "columnid": "252",
     "value": 33,
     "trlabel": "peach orange peach"
   },
   {
     "rowid": "148",
-    "colimnid": "188",
+    "columnid": "188",
     "value": 33,
     "trlabel": "banana orange kiwi"
   },
   {
     "rowid": "72",
-    "colimnid": "96",
+    "columnid": "96",
     "value": 21,
     "trlabel": "grape grape grape"
   },
   {
     "rowid": "132",
-    "colimnid": "245",
+    "columnid": "245",
     "value": 45,
     "trlabel": "apple peach grape"
   },
   {
     "rowid": "26",
-    "colimnid": "73",
+    "columnid": "73",
     "value": 40,
     "trlabel": "kiwi orange kiwi"
   },
   {
     "rowid": "156",
-    "colimnid": "152",
+    "columnid": "152",
     "value": 22,
     "trlabel": "banana kiwi apple"
   },
   {
     "rowid": "171",
-    "colimnid": "243",
+    "columnid": "243",
     "value": 33,
     "trlabel": "orange peach banana"
   },
   {
     "rowid": "94",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 27,
     "trlabel": "banana peach peach"
   },
   {
     "rowid": "56",
-    "colimnid": "61",
+    "columnid": "61",
     "value": 30,
     "trlabel": "banana kiwi orange"
   },
   {
     "rowid": "136",
-    "colimnid": "121",
+    "columnid": "121",
     "value": 30,
     "trlabel": "kiwi grape apple"
   },
   {
     "rowid": "45",
-    "colimnid": "127",
+    "columnid": "127",
     "value": 24,
     "trlabel": "peach grape orange"
   },
   {
     "rowid": "152",
-    "colimnid": "104",
+    "columnid": "104",
     "value": 39,
     "trlabel": "peach orange orange"
   },
   {
     "rowid": "105",
-    "colimnid": "130",
+    "columnid": "130",
     "value": 49,
     "trlabel": "grape grape orange"
   },
   {
     "rowid": "144",
-    "colimnid": "176",
+    "columnid": "176",
     "value": 49,
     "trlabel": "peach kiwi grape"
   },
   {
     "rowid": "58",
-    "colimnid": "237",
+    "columnid": "237",
     "value": 37,
     "trlabel": "banana banana orange"
   },
   {
     "rowid": "50",
-    "colimnid": "110",
+    "columnid": "110",
     "value": 19,
     "trlabel": "banana apple orange"
   },
   {
     "rowid": "182",
-    "colimnid": "96",
+    "columnid": "96",
     "value": 14,
     "trlabel": "grape kiwi peach"
   },
   {
     "rowid": "121",
-    "colimnid": "202",
+    "columnid": "202",
     "value": 28,
     "trlabel": "orange banana kiwi"
   },
   {
     "rowid": "167",
-    "colimnid": "81",
+    "columnid": "81",
     "value": 47,
     "trlabel": "kiwi apple orange"
   },
   {
     "rowid": "137",
-    "colimnid": "65",
+    "columnid": "65",
     "value": 49,
     "trlabel": "kiwi apple kiwi"
   },
   {
     "rowid": "110",
-    "colimnid": "254",
+    "columnid": "254",
     "value": 14,
     "trlabel": "orange kiwi orange"
   },
   {
     "rowid": "154",
-    "colimnid": "55",
+    "columnid": "55",
     "value": 20,
     "trlabel": "kiwi banana grape"
   },
   {
     "rowid": "51",
-    "colimnid": "255",
+    "columnid": "255",
     "value": 27,
     "trlabel": "peach peach kiwi"
   },
   {
     "rowid": "178",
-    "colimnid": "52",
+    "columnid": "52",
     "value": 30,
     "trlabel": "kiwi apple peach"
   },
   {
     "rowid": "134",
-    "colimnid": "171",
+    "columnid": "171",
     "value": 19,
     "trlabel": "apple orange kiwi"
   },
   {
     "rowid": "21",
-    "colimnid": "214",
+    "columnid": "214",
     "value": 24,
     "trlabel": "peach kiwi grape"
   },
   {
     "rowid": "187",
-    "colimnid": "70",
+    "columnid": "70",
     "value": 13,
     "trlabel": "banana kiwi peach"
   },
   {
     "rowid": "42",
-    "colimnid": "70",
+    "columnid": "70",
     "value": 21,
     "trlabel": "apple orange kiwi"
   },
   {
     "rowid": "112",
-    "colimnid": "174",
+    "columnid": "174",
     "value": 34,
     "trlabel": "apple peach banana"
   },
   {
     "rowid": "184",
-    "colimnid": "188",
+    "columnid": "188",
     "value": 24,
     "trlabel": "grape peach grape"
   },
   {
     "rowid": "58",
-    "colimnid": "225",
+    "columnid": "225",
     "value": 12,
     "trlabel": "grape orange kiwi"
   },
   {
     "rowid": "166",
-    "colimnid": "135",
+    "columnid": "135",
     "value": 29,
     "trlabel": "grape kiwi peach"
   },
   {
     "rowid": "84",
-    "colimnid": "105",
+    "columnid": "105",
     "value": 46,
     "trlabel": "orange apple banana"
   },
   {
     "rowid": "76",
-    "colimnid": "246",
+    "columnid": "246",
     "value": 41,
     "trlabel": "grape banana kiwi"
   },
   {
     "rowid": "144",
-    "colimnid": "104",
+    "columnid": "104",
     "value": 25,
     "trlabel": "banana apple orange"
   },
   {
     "rowid": "110",
-    "colimnid": "286",
+    "columnid": "286",
     "value": 25,
     "trlabel": "orange orange apple"
   },
   {
     "rowid": "158",
-    "colimnid": "76",
+    "columnid": "76",
     "value": 49,
     "trlabel": "apple peach peach"
   },
   {
     "rowid": "171",
-    "colimnid": "167",
+    "columnid": "167",
     "value": 18,
     "trlabel": "orange banana kiwi"
   },
   {
     "rowid": "189",
-    "colimnid": "287",
+    "columnid": "287",
     "value": 15,
     "trlabel": "peach orange banana"
   },
   {
     "rowid": "170",
-    "colimnid": "149",
+    "columnid": "149",
     "value": 38,
     "trlabel": "banana kiwi orange"
   },
   {
     "rowid": "187",
-    "colimnid": "95",
+    "columnid": "95",
     "value": 45,
     "trlabel": "kiwi banana kiwi"
   },
   {
     "rowid": "153",
-    "colimnid": "291",
+    "columnid": "291",
     "value": 32,
     "trlabel": "orange grape banana"
   },
   {
     "rowid": "74",
-    "colimnid": "146",
+    "columnid": "146",
     "value": 18,
     "trlabel": "orange orange orange"
   },
   {
     "rowid": "89",
-    "colimnid": "286",
+    "columnid": "286",
     "value": 32,
     "trlabel": "apple kiwi kiwi"
   },
   {
     "rowid": "176",
-    "colimnid": "177",
+    "columnid": "177",
     "value": 25,
     "trlabel": "banana kiwi orange"
   },
   {
     "rowid": "170",
-    "colimnid": "269",
+    "columnid": "269",
     "value": 25,
     "trlabel": "banana apple grape"
   },
   {
     "rowid": "164",
-    "colimnid": "110",
+    "columnid": "110",
     "value": 17,
     "trlabel": "orange apple orange"
   },
   {
     "rowid": "59",
-    "colimnid": "116",
+    "columnid": "116",
     "value": 17,
     "trlabel": "grape orange grape"
   },
   {
     "rowid": "22",
-    "colimnid": "293",
+    "columnid": "293",
     "value": 10,
     "trlabel": "orange apple apple"
   },
   {
     "rowid": "87",
-    "colimnid": "131",
+    "columnid": "131",
     "value": 40,
     "trlabel": "grape banana grape"
   },
   {
     "rowid": "65",
-    "colimnid": "262",
+    "columnid": "262",
     "value": 24,
     "trlabel": "grape kiwi kiwi"
   },
   {
     "rowid": "178",
-    "colimnid": "229",
+    "columnid": "229",
     "value": 28,
     "trlabel": "banana peach kiwi"
   },
   {
     "rowid": "114",
-    "colimnid": "207",
+    "columnid": "207",
     "value": 16,
     "trlabel": "banana grape apple"
   },
   {
     "rowid": "193",
-    "colimnid": "62",
+    "columnid": "62",
     "value": 13,
     "trlabel": "banana kiwi peach"
   },
   {
     "rowid": "165",
-    "colimnid": "170",
+    "columnid": "170",
     "value": 34,
     "trlabel": "kiwi orange peach"
   },
   {
     "rowid": "148",
-    "colimnid": "176",
+    "columnid": "176",
     "value": 15,
     "trlabel": "banana apple peach"
   },
   {
     "rowid": "128",
-    "colimnid": "291",
+    "columnid": "291",
     "value": 13,
     "trlabel": "grape apple banana"
   },
   {
     "rowid": "79",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 22,
     "trlabel": "kiwi banana apple"
   },
   {
     "rowid": "192",
-    "colimnid": "164",
+    "columnid": "164",
     "value": 47,
     "trlabel": "apple banana peach"
   },
   {
     "rowid": "160",
-    "colimnid": "290",
+    "columnid": "290",
     "value": 36,
     "trlabel": "banana orange banana"
   },
   {
     "rowid": "89",
-    "colimnid": "121",
+    "columnid": "121",
     "value": 26,
     "trlabel": "grape kiwi peach"
   },
   {
     "rowid": "25",
-    "colimnid": "158",
+    "columnid": "158",
     "value": 31,
     "trlabel": "peach grape peach"
   },
   {
     "rowid": "39",
-    "colimnid": "233",
+    "columnid": "233",
     "value": 34,
     "trlabel": "kiwi orange grape"
   },
   {
     "rowid": "93",
-    "colimnid": "144",
+    "columnid": "144",
     "value": 31,
     "trlabel": "apple apple orange"
   },
   {
     "rowid": "90",
-    "colimnid": "182",
+    "columnid": "182",
     "value": 21,
     "trlabel": "orange apple peach"
   },
   {
     "rowid": "183",
-    "colimnid": "156",
+    "columnid": "156",
     "value": 24,
     "trlabel": "grape kiwi orange"
   },
   {
     "rowid": "194",
-    "colimnid": "248",
+    "columnid": "248",
     "value": 25,
     "trlabel": "banana peach kiwi"
   },
   {
     "rowid": "196",
-    "colimnid": "134",
+    "columnid": "134",
     "value": 42,
     "trlabel": "kiwi apple orange"
   },
   {
     "rowid": "25",
-    "colimnid": "58",
+    "columnid": "58",
     "value": 42,
     "trlabel": "banana orange kiwi"
   },
   {
     "rowid": "151",
-    "colimnid": "273",
+    "columnid": "273",
     "value": 21,
     "trlabel": "peach apple orange"
   },
   {
     "rowid": "133",
-    "colimnid": "212",
+    "columnid": "212",
     "value": 14,
     "trlabel": "banana orange grape"
   },
   {
     "rowid": "178",
-    "colimnid": "286",
+    "columnid": "286",
     "value": 45,
     "trlabel": "grape banana orange"
   },
   {
     "rowid": "90",
-    "colimnid": "298",
+    "columnid": "298",
     "value": 26,
     "trlabel": "peach banana apple"
   },
   {
     "rowid": "67",
-    "colimnid": "253",
+    "columnid": "253",
     "value": 25,
     "trlabel": "orange orange kiwi"
   },
   {
     "rowid": "200",
-    "colimnid": "122",
+    "columnid": "122",
     "value": 32,
     "trlabel": "banana apple apple"
   },
   {
     "rowid": "117",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 25,
     "trlabel": "kiwi peach apple"
   },
   {
     "rowid": "115",
-    "colimnid": "295",
+    "columnid": "295",
     "value": 33,
     "trlabel": "apple kiwi kiwi"
   },
   {
     "rowid": "131",
-    "colimnid": "223",
+    "columnid": "223",
     "value": 42,
     "trlabel": "kiwi apple peach"
   },
   {
     "rowid": "123",
-    "colimnid": "186",
+    "columnid": "186",
     "value": 16,
     "trlabel": "kiwi peach kiwi"
   },
   {
     "rowid": "102",
-    "colimnid": "152",
+    "columnid": "152",
     "value": 38,
     "trlabel": "grape peach banana"
   },
   {
     "rowid": "79",
-    "colimnid": "117",
+    "columnid": "117",
     "value": 44,
     "trlabel": "banana orange apple"
   },
   {
     "rowid": "169",
-    "colimnid": "52",
+    "columnid": "52",
     "value": 12,
     "trlabel": "kiwi orange kiwi"
   },
   {
     "rowid": "150",
-    "colimnid": "176",
+    "columnid": "176",
     "value": 29,
     "trlabel": "grape banana peach"
   },
   {
     "rowid": "53",
-    "colimnid": "124",
+    "columnid": "124",
     "value": 50,
     "trlabel": "banana kiwi kiwi"
   },
   {
     "rowid": "198",
-    "colimnid": "235",
+    "columnid": "235",
     "value": 31,
     "trlabel": "grape peach apple"
   },
   {
     "rowid": "88",
-    "colimnid": "149",
+    "columnid": "149",
     "value": 31,
     "trlabel": "kiwi banana banana"
   },
   {
     "rowid": "124",
-    "colimnid": "71",
+    "columnid": "71",
     "value": 43,
     "trlabel": "banana kiwi orange"
   },
   {
     "rowid": "47",
-    "colimnid": "150",
+    "columnid": "150",
     "value": 19,
     "trlabel": "orange apple kiwi"
   },
   {
     "rowid": "119",
-    "colimnid": "221",
+    "columnid": "221",
     "value": 21,
     "trlabel": "orange grape kiwi"
   },
   {
     "rowid": "49",
-    "colimnid": "242",
+    "columnid": "242",
     "value": 16,
     "trlabel": "orange kiwi peach"
   },
   {
     "rowid": "47",
-    "colimnid": "242",
+    "columnid": "242",
     "value": 20,
     "trlabel": "orange apple grape"
   },
   {
     "rowid": "166",
-    "colimnid": "93",
+    "columnid": "93",
     "value": 12,
     "trlabel": "orange peach peach"
   },
   {
     "rowid": "146",
-    "colimnid": "297",
+    "columnid": "297",
     "value": 20,
     "trlabel": "orange banana grape"
   },
   {
     "rowid": "101",
-    "colimnid": "155",
+    "columnid": "155",
     "value": 45,
     "trlabel": "grape peach apple"
   },
   {
     "rowid": "146",
-    "colimnid": "206",
+    "columnid": "206",
     "value": 47,
     "trlabel": "orange orange apple"
   },
   {
     "rowid": "154",
-    "colimnid": "204",
+    "columnid": "204",
     "value": 12,
     "trlabel": "apple kiwi grape"
   },
   {
     "rowid": "109",
-    "colimnid": "89",
+    "columnid": "89",
     "value": 17,
     "trlabel": "grape banana peach"
   },
   {
     "rowid": "117",
-    "colimnid": "279",
+    "columnid": "279",
     "value": 16,
     "trlabel": "banana kiwi peach"
   },
   {
     "rowid": "84",
-    "colimnid": "134",
+    "columnid": "134",
     "value": 16,
     "trlabel": "grape peach orange"
   },
   {
     "rowid": "162",
-    "colimnid": "98",
+    "columnid": "98",
     "value": 35,
     "trlabel": "grape kiwi grape"
   },
   {
     "rowid": "142",
-    "colimnid": "143",
+    "columnid": "143",
     "value": 23,
     "trlabel": "apple kiwi grape"
   },
   {
     "rowid": "87",
-    "colimnid": "220",
+    "columnid": "220",
     "value": 49,
     "trlabel": "banana apple grape"
   },
   {
     "rowid": "178",
-    "colimnid": "57",
+    "columnid": "57",
     "value": 10,
     "trlabel": "kiwi grape peach"
   },
   {
     "rowid": "68",
-    "colimnid": "160",
+    "columnid": "160",
     "value": 17,
     "trlabel": "grape kiwi banana"
   },
   {
     "rowid": "84",
-    "colimnid": "81",
+    "columnid": "81",
     "value": 14,
     "trlabel": "orange kiwi peach"
   },
   {
     "rowid": "111",
-    "colimnid": "140",
+    "columnid": "140",
     "value": 27,
     "trlabel": "banana grape orange"
   },
   {
     "rowid": "96",
-    "colimnid": "60",
+    "columnid": "60",
     "value": 40,
     "trlabel": "banana orange kiwi"
   },
   {
     "rowid": "182",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 31,
     "trlabel": "peach banana grape"
   },
   {
     "rowid": "33",
-    "colimnid": "158",
+    "columnid": "158",
     "value": 35,
     "trlabel": "peach peach peach"
   },
   {
     "rowid": "140",
-    "colimnid": "194",
+    "columnid": "194",
     "value": 12,
     "trlabel": "grape grape orange"
   },
   {
     "rowid": "148",
-    "colimnid": "298",
+    "columnid": "298",
     "value": 39,
     "trlabel": "orange peach apple"
   },
   {
     "rowid": "179",
-    "colimnid": "221",
+    "columnid": "221",
     "value": 38,
     "trlabel": "apple orange grape"
   },
   {
     "rowid": "21",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 14,
     "trlabel": "kiwi apple apple"
   },
   {
     "rowid": "189",
-    "colimnid": "207",
+    "columnid": "207",
     "value": 10,
     "trlabel": "peach peach apple"
   },
   {
     "rowid": "150",
-    "colimnid": "176",
+    "columnid": "176",
     "value": 30,
     "trlabel": "grape orange kiwi"
   },
   {
     "rowid": "98",
-    "colimnid": "229",
+    "columnid": "229",
     "value": 37,
     "trlabel": "peach orange grape"
   },
   {
     "rowid": "92",
-    "colimnid": "117",
+    "columnid": "117",
     "value": 31,
     "trlabel": "grape peach orange"
   },
   {
     "rowid": "56",
-    "colimnid": "234",
+    "columnid": "234",
     "value": 28,
     "trlabel": "banana grape kiwi"
   },
   {
     "rowid": "126",
-    "colimnid": "137",
+    "columnid": "137",
     "value": 21,
     "trlabel": "apple banana peach"
   },
   {
     "rowid": "173",
-    "colimnid": "202",
+    "columnid": "202",
     "value": 36,
     "trlabel": "kiwi orange banana"
   },
   {
     "rowid": "23",
-    "colimnid": "286",
+    "columnid": "286",
     "value": 30,
     "trlabel": "peach orange apple"
   },
   {
     "rowid": "31",
-    "colimnid": "55",
+    "columnid": "55",
     "value": 19,
     "trlabel": "peach peach kiwi"
   },
   {
     "rowid": "42",
-    "colimnid": "126",
+    "columnid": "126",
     "value": 40,
     "trlabel": "banana apple grape"
   },
   {
     "rowid": "66",
-    "colimnid": "125",
+    "columnid": "125",
     "value": 18,
     "trlabel": "banana kiwi apple"
   },
   {
     "rowid": "174",
-    "colimnid": "299",
+    "columnid": "299",
     "value": 17,
     "trlabel": "peach orange grape"
   },
   {
     "rowid": "122",
-    "colimnid": "293",
+    "columnid": "293",
     "value": 33,
     "trlabel": "banana kiwi peach"
   },
   {
     "rowid": "182",
-    "colimnid": "66",
+    "columnid": "66",
     "value": 35,
     "trlabel": "orange kiwi apple"
   },
   {
     "rowid": "199",
-    "colimnid": "197",
+    "columnid": "197",
     "value": 31,
     "trlabel": "peach orange banana"
   },
   {
     "rowid": "46",
-    "colimnid": "252",
+    "columnid": "252",
     "value": 44,
     "trlabel": "banana orange grape"
   },
   {
     "rowid": "72",
-    "colimnid": "142",
+    "columnid": "142",
     "value": 18,
     "trlabel": "orange apple peach"
   },
   {
     "rowid": "28",
-    "colimnid": "53",
+    "columnid": "53",
     "value": 25,
     "trlabel": "banana peach apple"
   },
   {
     "rowid": "103",
-    "colimnid": "273",
+    "columnid": "273",
     "value": 33,
     "trlabel": "apple peach apple"
   },
   {
     "rowid": "191",
-    "colimnid": "64",
+    "columnid": "64",
     "value": 22,
     "trlabel": "peach grape grape"
   },
   {
     "rowid": "170",
-    "colimnid": "216",
+    "columnid": "216",
     "value": 48,
     "trlabel": "peach kiwi peach"
   },
   {
     "rowid": "178",
-    "colimnid": "246",
+    "columnid": "246",
     "value": 40,
     "trlabel": "kiwi grape peach"
   },
   {
     "rowid": "148",
-    "colimnid": "150",
+    "columnid": "150",
     "value": 45,
     "trlabel": "apple peach peach"
   },
   {
     "rowid": "39",
-    "colimnid": "108",
+    "columnid": "108",
     "value": 34,
     "trlabel": "apple banana banana"
   },
   {
     "rowid": "106",
-    "colimnid": "267",
+    "columnid": "267",
     "value": 42,
     "trlabel": "kiwi peach kiwi"
   },
   {
     "rowid": "25",
-    "colimnid": "100",
+    "columnid": "100",
     "value": 22,
     "trlabel": "apple apple banana"
   },
   {
     "rowid": "193",
-    "colimnid": "173",
+    "columnid": "173",
     "value": 49,
     "trlabel": "peach orange orange"
   },
   {
     "rowid": "94",
-    "colimnid": "81",
+    "columnid": "81",
     "value": 10,
     "trlabel": "peach kiwi orange"
   },
   {
     "rowid": "100",
-    "colimnid": "95",
+    "columnid": "95",
     "value": 28,
     "trlabel": "kiwi kiwi kiwi"
   },
   {
     "rowid": "144",
-    "colimnid": "67",
+    "columnid": "67",
     "value": 32,
     "trlabel": "banana peach kiwi"
   },
   {
     "rowid": "132",
-    "colimnid": "223",
+    "columnid": "223",
     "value": 40,
     "trlabel": "peach grape grape"
   },
   {
     "rowid": "165",
-    "colimnid": "186",
+    "columnid": "186",
     "value": 31,
     "trlabel": "apple banana banana"
   },
   {
     "rowid": "156",
-    "colimnid": "220",
+    "columnid": "220",
     "value": 16,
     "trlabel": "banana grape orange"
   },
   {
     "rowid": "173",
-    "colimnid": "159",
+    "columnid": "159",
     "value": 30,
     "trlabel": "banana banana banana"
   },
   {
     "rowid": "58",
-    "colimnid": "226",
+    "columnid": "226",
     "value": 28,
     "trlabel": "peach peach orange"
   },
   {
     "rowid": "69",
-    "colimnid": "253",
+    "columnid": "253",
     "value": 26,
     "trlabel": "kiwi kiwi grape"
   },
   {
     "rowid": "123",
-    "colimnid": "268",
+    "columnid": "268",
     "value": 29,
     "trlabel": "kiwi orange peach"
   },
   {
     "rowid": "104",
-    "colimnid": "154",
+    "columnid": "154",
     "value": 19,
     "trlabel": "apple grape apple"
   },
   {
     "rowid": "172",
-    "colimnid": "263",
+    "columnid": "263",
     "value": 50,
     "trlabel": "peach orange banana"
   },
   {
     "rowid": "38",
-    "colimnid": "210",
+    "columnid": "210",
     "value": 10,
     "trlabel": "orange grape grape"
   },
   {
     "rowid": "199",
-    "colimnid": "194",
+    "columnid": "194",
     "value": 46,
     "trlabel": "banana kiwi apple"
   },
   {
     "rowid": "174",
-    "colimnid": "140",
+    "columnid": "140",
     "value": 41,
     "trlabel": "kiwi kiwi apple"
   },
   {
     "rowid": "146",
-    "colimnid": "150",
+    "columnid": "150",
     "value": 33,
     "trlabel": "apple banana kiwi"
   },
   {
     "rowid": "48",
-    "colimnid": "116",
+    "columnid": "116",
     "value": 42,
     "trlabel": "peach kiwi apple"
   },
   {
     "rowid": "101",
-    "colimnid": "205",
+    "columnid": "205",
     "value": 36,
     "trlabel": "grape orange grape"
   },
   {
     "rowid": "71",
-    "colimnid": "146",
+    "columnid": "146",
     "value": 38,
     "trlabel": "grape orange kiwi"
   },
   {
     "rowid": "191",
-    "colimnid": "153",
+    "columnid": "153",
     "value": 33,
     "trlabel": "grape grape orange"
   },
   {
     "rowid": "145",
-    "colimnid": "183",
+    "columnid": "183",
     "value": 10,
     "trlabel": "grape peach kiwi"
   },
   {
     "rowid": "155",
-    "colimnid": "286",
+    "columnid": "286",
     "value": 30,
     "trlabel": "apple peach orange"
   },
   {
     "rowid": "98",
-    "colimnid": "89",
+    "columnid": "89",
     "value": 40,
     "trlabel": "orange peach peach"
   },
   {
     "rowid": "154",
-    "colimnid": "241",
+    "columnid": "241",
     "value": 10,
     "trlabel": "grape banana grape"
   },
   {
     "rowid": "71",
-    "colimnid": "272",
+    "columnid": "272",
     "value": 20,
     "trlabel": "grape apple grape"
   },
   {
     "rowid": "155",
-    "colimnid": "177",
+    "columnid": "177",
     "value": 34,
     "trlabel": "kiwi apple peach"
   },
   {
     "rowid": "188",
-    "colimnid": "88",
+    "columnid": "88",
     "value": 39,
     "trlabel": "orange banana apple"
   },
   {
     "rowid": "167",
-    "colimnid": "128",
+    "columnid": "128",
     "value": 50,
     "trlabel": "kiwi grape grape"
   },
   {
     "rowid": "145",
-    "colimnid": "128",
+    "columnid": "128",
     "value": 14,
     "trlabel": "apple banana apple"
   },
   {
     "rowid": "182",
-    "colimnid": "248",
+    "columnid": "248",
     "value": 38,
     "trlabel": "orange banana grape"
   },
   {
     "rowid": "61",
-    "colimnid": "78",
+    "columnid": "78",
     "value": 41,
     "trlabel": "apple peach apple"
   },
   {
     "rowid": "68",
-    "colimnid": "166",
+    "columnid": "166",
     "value": 47,
     "trlabel": "orange grape apple"
   },
   {
     "rowid": "184",
-    "colimnid": "54",
+    "columnid": "54",
     "value": 12,
     "trlabel": "kiwi peach apple"
   },
   {
     "rowid": "85",
-    "colimnid": "59",
+    "columnid": "59",
     "value": 50,
     "trlabel": "banana kiwi banana"
   },
   {
     "rowid": "24",
-    "colimnid": "77",
+    "columnid": "77",
     "value": 18,
     "trlabel": "kiwi grape grape"
   },
   {
     "rowid": "91",
-    "colimnid": "167",
+    "columnid": "167",
     "value": 45,
     "trlabel": "banana apple peach"
   },
   {
     "rowid": "135",
-    "colimnid": "290",
+    "columnid": "290",
     "value": 12,
     "trlabel": "orange banana orange"
   },
   {
     "rowid": "92",
-    "colimnid": "293",
+    "columnid": "293",
     "value": 18,
     "trlabel": "banana peach banana"
   },
   {
     "rowid": "40",
-    "colimnid": "150",
+    "columnid": "150",
     "value": 47,
     "trlabel": "grape grape apple"
   },
   {
     "rowid": "185",
-    "colimnid": "262",
+    "columnid": "262",
     "value": 12,
     "trlabel": "kiwi peach kiwi"
   },
   {
     "rowid": "148",
-    "colimnid": "227",
+    "columnid": "227",
     "value": 16,
     "trlabel": "banana grape orange"
   },
   {
     "rowid": "172",
-    "colimnid": "257",
+    "columnid": "257",
     "value": 32,
     "trlabel": "orange kiwi orange"
   },
   {
     "rowid": "38",
-    "colimnid": "142",
+    "columnid": "142",
     "value": 40,
     "trlabel": "banana apple orange"
   },
   {
     "rowid": "45",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 35,
     "trlabel": "apple banana banana"
   },
   {
     "rowid": "79",
-    "colimnid": "231",
+    "columnid": "231",
     "value": 39,
     "trlabel": "orange apple banana"
   },
   {
     "rowid": "139",
-    "colimnid": "87",
+    "columnid": "87",
     "value": 23,
     "trlabel": "banana apple grape"
   },
   {
     "rowid": "152",
-    "colimnid": "225",
+    "columnid": "225",
     "value": 24,
     "trlabel": "grape grape apple"
   },
   {
     "rowid": "198",
-    "colimnid": "106",
+    "columnid": "106",
     "value": 34,
     "trlabel": "kiwi orange orange"
   },
   {
     "rowid": "184",
-    "colimnid": "127",
+    "columnid": "127",
     "value": 29,
     "trlabel": "peach peach orange"
   },
   {
     "rowid": "110",
-    "colimnid": "209",
+    "columnid": "209",
     "value": 34,
     "trlabel": "grape grape kiwi"
   },
   {
     "rowid": "87",
-    "colimnid": "239",
+    "columnid": "239",
     "value": 37,
     "trlabel": "grape kiwi kiwi"
   },
   {
     "rowid": "38",
-    "colimnid": "204",
+    "columnid": "204",
     "value": 19,
     "trlabel": "kiwi apple kiwi"
   },
   {
     "rowid": "52",
-    "colimnid": "161",
+    "columnid": "161",
     "value": 38,
     "trlabel": "orange grape banana"
   },
   {
     "rowid": "116",
-    "colimnid": "50",
+    "columnid": "50",
     "value": 30,
     "trlabel": "orange kiwi grape"
   },
   {
     "rowid": "140",
-    "colimnid": "217",
+    "columnid": "217",
     "value": 39,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "120",
-    "colimnid": "158",
+    "columnid": "158",
     "value": 38,
     "trlabel": "orange orange orange"
   },
   {
     "rowid": "192",
-    "colimnid": "117",
+    "columnid": "117",
     "value": 12,
     "trlabel": "banana banana grape"
   },
   {
     "rowid": "172",
-    "colimnid": "224",
+    "columnid": "224",
     "value": 16,
     "trlabel": "orange banana grape"
   },
   {
     "rowid": "122",
-    "colimnid": "280",
+    "columnid": "280",
     "value": 38,
     "trlabel": "grape peach banana"
   },
   {
     "rowid": "81",
-    "colimnid": "118",
+    "columnid": "118",
     "value": 17,
     "trlabel": "peach peach grape"
   },
   {
     "rowid": "145",
-    "colimnid": "242",
+    "columnid": "242",
     "value": 11,
     "trlabel": "apple apple peach"
   },
   {
     "rowid": "158",
-    "colimnid": "248",
+    "columnid": "248",
     "value": 19,
     "trlabel": "grape apple peach"
   },
   {
     "rowid": "131",
-    "colimnid": "123",
+    "columnid": "123",
     "value": 24,
     "trlabel": "apple grape apple"
   },
   {
     "rowid": "74",
-    "colimnid": "259",
+    "columnid": "259",
     "value": 15,
     "trlabel": "grape banana banana"
   },
   {
     "rowid": "153",
-    "colimnid": "225",
+    "columnid": "225",
     "value": 10,
     "trlabel": "kiwi grape grape"
   },
   {
     "rowid": "70",
-    "colimnid": "107",
+    "columnid": "107",
     "value": 39,
     "trlabel": "apple grape banana"
   },
   {
     "rowid": "49",
-    "colimnid": "205",
+    "columnid": "205",
     "value": 29,
     "trlabel": "kiwi apple orange"
   },
   {
     "rowid": "186",
-    "colimnid": "250",
+    "columnid": "250",
     "value": 24,
     "trlabel": "peach peach grape"
   },
   {
     "rowid": "93",
-    "colimnid": "206",
+    "columnid": "206",
     "value": 17,
     "trlabel": "banana grape banana"
   },
   {
     "rowid": "107",
-    "colimnid": "201",
+    "columnid": "201",
     "value": 48,
     "trlabel": "banana banana orange"
   },
   {
     "rowid": "69",
-    "colimnid": "205",
+    "columnid": "205",
     "value": 28,
     "trlabel": "orange kiwi orange"
   },
   {
     "rowid": "76",
-    "colimnid": "236",
+    "columnid": "236",
     "value": 11,
     "trlabel": "banana orange apple"
   },
   {
     "rowid": "27",
-    "colimnid": "87",
+    "columnid": "87",
     "value": 16,
     "trlabel": "apple peach apple"
   },
   {
     "rowid": "22",
-    "colimnid": "225",
+    "columnid": "225",
     "value": 50,
     "trlabel": "peach banana orange"
   },
   {
     "rowid": "194",
-    "colimnid": "230",
+    "columnid": "230",
     "value": 19,
     "trlabel": "peach kiwi banana"
   },
   {
     "rowid": "94",
-    "colimnid": "234",
+    "columnid": "234",
     "value": 12,
     "trlabel": "grape kiwi banana"
   },
   {
     "rowid": "117",
-    "colimnid": "56",
+    "columnid": "56",
     "value": 18,
     "trlabel": "kiwi kiwi grape"
   },
   {
     "rowid": "146",
-    "colimnid": "73",
+    "columnid": "73",
     "value": 24,
     "trlabel": "peach banana kiwi"
   },
   {
     "rowid": "95",
-    "colimnid": "93",
+    "columnid": "93",
     "value": 28,
     "trlabel": "banana orange orange"
   },
   {
     "rowid": "133",
-    "colimnid": "98",
+    "columnid": "98",
     "value": 48,
     "trlabel": "peach kiwi grape"
   },
   {
     "rowid": "51",
-    "colimnid": "73",
+    "columnid": "73",
     "value": 10,
     "trlabel": "apple grape apple"
   },
   {
     "rowid": "115",
-    "colimnid": "241",
+    "columnid": "241",
     "value": 15,
     "trlabel": "peach apple banana"
   },
   {
     "rowid": "99",
-    "colimnid": "278",
+    "columnid": "278",
     "value": 18,
     "trlabel": "kiwi kiwi orange"
   },
   {
     "rowid": "173",
-    "colimnid": "277",
+    "columnid": "277",
     "value": 36,
     "trlabel": "banana apple grape"
   },
   {
     "rowid": "188",
-    "colimnid": "187",
+    "columnid": "187",
     "value": 23,
     "trlabel": "banana grape kiwi"
   },
   {
     "rowid": "199",
-    "colimnid": "282",
+    "columnid": "282",
     "value": 47,
     "trlabel": "apple banana kiwi"
   },
   {
     "rowid": "150",
-    "colimnid": "234",
+    "columnid": "234",
     "value": 18,
     "trlabel": "peach orange grape"
   },
   {
     "rowid": "103",
-    "colimnid": "126",
+    "columnid": "126",
     "value": 28,
     "trlabel": "grape grape banana"
   },
   {
     "rowid": "51",
-    "colimnid": "288",
+    "columnid": "288",
     "value": 40,
     "trlabel": "kiwi orange grape"
   },
   {
     "rowid": "146",
-    "colimnid": "245",
+    "columnid": "245",
     "value": 44,
     "trlabel": "kiwi grape grape"
   },
   {
     "rowid": "59",
-    "colimnid": "85",
+    "columnid": "85",
     "value": 38,
     "trlabel": "banana grape grape"
   },
   {
     "rowid": "169",
-    "colimnid": "109",
+    "columnid": "109",
     "value": 40,
     "trlabel": "orange kiwi peach"
   },
   {
     "rowid": "137",
-    "colimnid": "241",
+    "columnid": "241",
     "value": 26,
     "trlabel": "apple apple apple"
   },
   {
     "rowid": "176",
-    "colimnid": "297",
+    "columnid": "297",
     "value": 28,
     "trlabel": "peach orange orange"
   },
   {
     "rowid": "132",
-    "colimnid": "258",
+    "columnid": "258",
     "value": 39,
     "trlabel": "grape apple peach"
   },
   {
     "rowid": "54",
-    "colimnid": "63",
+    "columnid": "63",
     "value": 49,
     "trlabel": "apple apple orange"
   },
   {
     "rowid": "72",
-    "colimnid": "156",
+    "columnid": "156",
     "value": 25,
     "trlabel": "peach grape peach"
   },
   {
     "rowid": "199",
-    "colimnid": "232",
+    "columnid": "232",
     "value": 34,
     "trlabel": "apple peach kiwi"
   },
   {
     "rowid": "76",
-    "colimnid": "280",
+    "columnid": "280",
     "value": 14,
     "trlabel": "banana banana apple"
   },
   {
     "rowid": "96",
-    "colimnid": "89",
+    "columnid": "89",
     "value": 44,
     "trlabel": "orange orange peach"
   },
   {
     "rowid": "159",
-    "colimnid": "51",
+    "columnid": "51",
     "value": 48,
     "trlabel": "grape kiwi kiwi"
   },
   {
     "rowid": "142",
-    "colimnid": "78",
+    "columnid": "78",
     "value": 26,
     "trlabel": "grape banana grape"
   },
   {
     "rowid": "32",
-    "colimnid": "168",
+    "columnid": "168",
     "value": 37,
     "trlabel": "peach banana kiwi"
   },
   {
     "rowid": "83",
-    "colimnid": "184",
+    "columnid": "184",
     "value": 19,
     "trlabel": "grape kiwi apple"
   },
   {
     "rowid": "178",
-    "colimnid": "213",
+    "columnid": "213",
     "value": 20,
     "trlabel": "grape banana peach"
   },
   {
     "rowid": "48",
-    "colimnid": "196",
+    "columnid": "196",
     "value": 17,
     "trlabel": "apple kiwi banana"
   },
   {
     "rowid": "191",
-    "colimnid": "105",
+    "columnid": "105",
     "value": 19,
     "trlabel": "orange peach grape"
   },
   {
     "rowid": "189",
-    "colimnid": "216",
+    "columnid": "216",
     "value": 20,
     "trlabel": "peach grape grape"
   },
   {
     "rowid": "162",
-    "colimnid": "117",
+    "columnid": "117",
     "value": 27,
     "trlabel": "kiwi peach banana"
   },
   {
     "rowid": "29",
-    "colimnid": "53",
+    "columnid": "53",
     "value": 43,
     "trlabel": "peach orange orange"
   },
   {
     "rowid": "46",
-    "colimnid": "271",
+    "columnid": "271",
     "value": 47,
     "trlabel": "grape kiwi orange"
   },
   {
     "rowid": "94",
-    "colimnid": "237",
+    "columnid": "237",
     "value": 31,
     "trlabel": "peach grape grape"
   },
   {
     "rowid": "47",
-    "colimnid": "300",
+    "columnid": "300",
     "value": 47,
     "trlabel": "kiwi orange apple"
   },
   {
     "rowid": "134",
-    "colimnid": "71",
+    "columnid": "71",
     "value": 41,
     "trlabel": "grape orange kiwi"
   },
   {
     "rowid": "92",
-    "colimnid": "90",
+    "columnid": "90",
     "value": 18,
     "trlabel": "orange orange orange"
   },
   {
     "rowid": "168",
-    "colimnid": "282",
+    "columnid": "282",
     "value": 26,
     "trlabel": "peach peach orange"
   },
   {
     "rowid": "47",
-    "colimnid": "255",
+    "columnid": "255",
     "value": 10,
     "trlabel": "apple orange apple"
   },
   {
     "rowid": "29",
-    "colimnid": "269",
+    "columnid": "269",
     "value": 21,
     "trlabel": "banana peach grape"
   },
   {
     "rowid": "134",
-    "colimnid": "62",
+    "columnid": "62",
     "value": 20,
     "trlabel": "apple grape apple"
   },
   {
     "rowid": "137",
-    "colimnid": "152",
+    "columnid": "152",
     "value": 37,
     "trlabel": "grape orange grape"
   },
   {
     "rowid": "185",
-    "colimnid": "169",
+    "columnid": "169",
     "value": 46,
     "trlabel": "apple grape grape"
   },
   {
     "rowid": "21",
-    "colimnid": "219",
+    "columnid": "219",
     "value": 36,
     "trlabel": "apple orange banana"
   },
   {
     "rowid": "156",
-    "colimnid": "71",
+    "columnid": "71",
     "value": 36,
     "trlabel": "banana orange banana"
   },
   {
     "rowid": "44",
-    "colimnid": "228",
+    "columnid": "228",
     "value": 12,
     "trlabel": "peach apple orange"
   },
   {
     "rowid": "183",
-    "colimnid": "56",
+    "columnid": "56",
     "value": 44,
     "trlabel": "apple kiwi grape"
   },
   {
     "rowid": "90",
-    "colimnid": "272",
+    "columnid": "272",
     "value": 39,
     "trlabel": "orange kiwi kiwi"
   },
   {
     "rowid": "86",
-    "colimnid": "286",
+    "columnid": "286",
     "value": 40,
     "trlabel": "peach orange peach"
   },
   {
     "rowid": "118",
-    "colimnid": "227",
+    "columnid": "227",
     "value": 50,
     "trlabel": "peach peach banana"
   },
   {
     "rowid": "169",
-    "colimnid": "271",
+    "columnid": "271",
     "value": 27,
     "trlabel": "banana peach kiwi"
   },
   {
     "rowid": "50",
-    "colimnid": "92",
+    "columnid": "92",
     "value": 25,
     "trlabel": "orange peach kiwi"
   },
   {
     "rowid": "25",
-    "colimnid": "115",
+    "columnid": "115",
     "value": 32,
     "trlabel": "orange apple orange"
   },
   {
     "rowid": "56",
-    "colimnid": "110",
+    "columnid": "110",
     "value": 14,
     "trlabel": "peach grape orange"
   },
   {
     "rowid": "187",
-    "colimnid": "208",
+    "columnid": "208",
     "value": 34,
     "trlabel": "banana banana banana"
   },
   {
     "rowid": "133",
-    "colimnid": "250",
+    "columnid": "250",
     "value": 50,
     "trlabel": "grape orange kiwi"
   },
   {
     "rowid": "179",
-    "colimnid": "82",
+    "columnid": "82",
     "value": 10,
     "trlabel": "kiwi kiwi banana"
   },
   {
     "rowid": "31",
-    "colimnid": "229",
+    "columnid": "229",
     "value": 40,
     "trlabel": "apple orange apple"
   },
   {
     "rowid": "144",
-    "colimnid": "153",
+    "columnid": "153",
     "value": 49,
     "trlabel": "orange banana peach"
   },
   {
     "rowid": "24",
-    "colimnid": "152",
+    "columnid": "152",
     "value": 30,
     "trlabel": "kiwi apple orange"
   },
   {
     "rowid": "35",
-    "colimnid": "173",
+    "columnid": "173",
     "value": 28,
     "trlabel": "peach banana orange"
   },
   {
     "rowid": "78",
-    "colimnid": "179",
+    "columnid": "179",
     "value": 16,
     "trlabel": "apple apple apple"
   },
   {
     "rowid": "70",
-    "colimnid": "54",
+    "columnid": "54",
     "value": 29,
     "trlabel": "grape peach apple"
   },
   {
     "rowid": "170",
-    "colimnid": "198",
+    "columnid": "198",
     "value": 36,
     "trlabel": "peach apple orange"
   },
   {
     "rowid": "100",
-    "colimnid": "165",
+    "columnid": "165",
     "value": 12,
     "trlabel": "orange kiwi peach"
   },
   {
     "rowid": "177",
-    "colimnid": "218",
+    "columnid": "218",
     "value": 43,
     "trlabel": "peach orange kiwi"
   },
   {
     "rowid": "197",
-    "colimnid": "63",
+    "columnid": "63",
     "value": 26,
     "trlabel": "banana orange apple"
   },
   {
     "rowid": "72",
-    "colimnid": "138",
+    "columnid": "138",
     "value": 17,
     "trlabel": "peach apple orange"
   },
   {
     "rowid": "128",
-    "colimnid": "297",
+    "columnid": "297",
     "value": 22,
     "trlabel": "apple peach orange"
   },
   {
     "rowid": "118",
-    "colimnid": "279",
+    "columnid": "279",
     "value": 45,
     "trlabel": "banana banana peach"
   },
   {
     "rowid": "193",
-    "colimnid": "92",
+    "columnid": "92",
     "value": 48,
     "trlabel": "banana grape banana"
   },
   {
     "rowid": "197",
-    "colimnid": "120",
+    "columnid": "120",
     "value": 43,
     "trlabel": "kiwi grape banana"
   },
   {
     "rowid": "136",
-    "colimnid": "170",
+    "columnid": "170",
     "value": 37,
     "trlabel": "grape grape peach"
   },
   {
     "rowid": "58",
-    "colimnid": "124",
+    "columnid": "124",
     "value": 10,
     "trlabel": "banana peach banana"
   },
   {
     "rowid": "188",
-    "colimnid": "193",
+    "columnid": "193",
     "value": 36,
     "trlabel": "grape banana orange"
   },
   {
     "rowid": "190",
-    "colimnid": "117",
+    "columnid": "117",
     "value": 31,
     "trlabel": "grape apple banana"
   },
   {
     "rowid": "51",
-    "colimnid": "117",
+    "columnid": "117",
     "value": 28,
     "trlabel": "apple grape banana"
   },
   {
     "rowid": "189",
-    "colimnid": "273",
+    "columnid": "273",
     "value": 38,
     "trlabel": "peach orange apple"
   },
   {
     "rowid": "36",
-    "colimnid": "267",
+    "columnid": "267",
     "value": 30,
     "trlabel": "banana orange banana"
   },
   {
     "rowid": "39",
-    "colimnid": "242",
+    "columnid": "242",
     "value": 24,
     "trlabel": "grape banana kiwi"
   },
   {
     "rowid": "32",
-    "colimnid": "108",
+    "columnid": "108",
     "value": 39,
     "trlabel": "orange apple grape"
   },
   {
     "rowid": "77",
-    "colimnid": "78",
+    "columnid": "78",
     "value": 34,
     "trlabel": "peach grape orange"
   },
   {
     "rowid": "33",
-    "colimnid": "61",
+    "columnid": "61",
     "value": 12,
     "trlabel": "orange banana apple"
   },
   {
     "rowid": "172",
-    "colimnid": "186",
+    "columnid": "186",
     "value": 34,
     "trlabel": "orange orange peach"
   },
   {
     "rowid": "35",
-    "colimnid": "248",
+    "columnid": "248",
     "value": 32,
     "trlabel": "banana grape peach"
   },
   {
     "rowid": "48",
-    "colimnid": "255",
+    "columnid": "255",
     "value": 48,
     "trlabel": "orange grape apple"
   },
   {
     "rowid": "157",
-    "colimnid": "174",
+    "columnid": "174",
     "value": 36,
     "trlabel": "apple kiwi orange"
   },
   {
     "rowid": "162",
-    "colimnid": "204",
+    "columnid": "204",
     "value": 44,
     "trlabel": "banana kiwi grape"
   },
   {
     "rowid": "67",
-    "colimnid": "133",
+    "columnid": "133",
     "value": 31,
     "trlabel": "apple orange banana"
   },
   {
     "rowid": "157",
-    "colimnid": "227",
+    "columnid": "227",
     "value": 42,
     "trlabel": "peach kiwi grape"
   },
   {
     "rowid": "121",
-    "colimnid": "151",
+    "columnid": "151",
     "value": 25,
     "trlabel": "peach banana orange"
   },
   {
     "rowid": "160",
-    "colimnid": "100",
+    "columnid": "100",
     "value": 34,
     "trlabel": "peach peach apple"
   },
   {
     "rowid": "96",
-    "colimnid": "280",
+    "columnid": "280",
     "value": 34,
     "trlabel": "peach grape grape"
   },
   {
     "rowid": "92",
-    "colimnid": "275",
+    "columnid": "275",
     "value": 23,
     "trlabel": "orange orange orange"
   },
   {
     "rowid": "135",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 11,
     "trlabel": "orange orange grape"
   },
   {
     "rowid": "183",
-    "colimnid": "71",
+    "columnid": "71",
     "value": 23,
     "trlabel": "banana grape orange"
   },
   {
     "rowid": "166",
-    "colimnid": "213",
+    "columnid": "213",
     "value": 21,
     "trlabel": "apple apple grape"
   },
   {
     "rowid": "164",
-    "colimnid": "234",
+    "columnid": "234",
     "value": 33,
     "trlabel": "apple kiwi apple"
   },
   {
     "rowid": "37",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 14,
     "trlabel": "orange grape orange"
   },
   {
     "rowid": "170",
-    "colimnid": "246",
+    "columnid": "246",
     "value": 15,
     "trlabel": "banana peach orange"
   },
   {
     "rowid": "114",
-    "colimnid": "275",
+    "columnid": "275",
     "value": 40,
     "trlabel": "grape grape peach"
   },
   {
     "rowid": "135",
-    "colimnid": "252",
+    "columnid": "252",
     "value": 11,
     "trlabel": "banana banana orange"
   },
   {
     "rowid": "129",
-    "colimnid": "245",
+    "columnid": "245",
     "value": 32,
     "trlabel": "peach orange banana"
   },
   {
     "rowid": "75",
-    "colimnid": "177",
+    "columnid": "177",
     "value": 20,
     "trlabel": "peach kiwi apple"
   },
   {
     "rowid": "135",
-    "colimnid": "59",
+    "columnid": "59",
     "value": 36,
     "trlabel": "orange peach grape"
   },
   {
     "rowid": "63",
-    "colimnid": "263",
+    "columnid": "263",
     "value": 27,
     "trlabel": "banana kiwi kiwi"
   },
   {
     "rowid": "32",
-    "colimnid": "274",
+    "columnid": "274",
     "value": 11,
     "trlabel": "grape peach peach"
   },
   {
     "rowid": "171",
-    "colimnid": "138",
+    "columnid": "138",
     "value": 46,
     "trlabel": "orange banana grape"
   },
   {
     "rowid": "45",
-    "colimnid": "109",
+    "columnid": "109",
     "value": 38,
     "trlabel": "apple kiwi peach"
   },
   {
     "rowid": "122",
-    "colimnid": "285",
+    "columnid": "285",
     "value": 23,
     "trlabel": "orange orange grape"
   },
   {
     "rowid": "91",
-    "colimnid": "178",
+    "columnid": "178",
     "value": 23,
     "trlabel": "banana grape grape"
   },
   {
     "rowid": "199",
-    "colimnid": "121",
+    "columnid": "121",
     "value": 15,
     "trlabel": "kiwi peach banana"
   },
   {
     "rowid": "90",
-    "colimnid": "98",
+    "columnid": "98",
     "value": 23,
     "trlabel": "kiwi apple peach"
   },
   {
     "rowid": "143",
-    "colimnid": "281",
+    "columnid": "281",
     "value": 30,
     "trlabel": "peach peach apple"
   },
   {
     "rowid": "43",
-    "colimnid": "72",
+    "columnid": "72",
     "value": 22,
     "trlabel": "grape kiwi grape"
   },
   {
     "rowid": "34",
-    "colimnid": "59",
+    "columnid": "59",
     "value": 39,
     "trlabel": "grape kiwi peach"
   },
   {
     "rowid": "66",
-    "colimnid": "240",
+    "columnid": "240",
     "value": 22,
     "trlabel": "grape grape peach"
   },
   {
     "rowid": "150",
-    "colimnid": "218",
+    "columnid": "218",
     "value": 44,
     "trlabel": "grape kiwi kiwi"
   },
   {
     "rowid": "164",
-    "colimnid": "297",
+    "columnid": "297",
     "value": 35,
     "trlabel": "apple apple banana"
   },
   {
     "rowid": "113",
-    "colimnid": "158",
+    "columnid": "158",
     "value": 17,
     "trlabel": "banana orange peach"
   },
   {
     "rowid": "115",
-    "colimnid": "287",
+    "columnid": "287",
     "value": 30,
     "trlabel": "banana peach apple"
   },
   {
     "rowid": "30",
-    "colimnid": "173",
+    "columnid": "173",
     "value": 43,
     "trlabel": "apple peach apple"
   },
   {
     "rowid": "191",
-    "colimnid": "285",
+    "columnid": "285",
     "value": 24,
     "trlabel": "orange kiwi apple"
   }
