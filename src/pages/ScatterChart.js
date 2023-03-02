@@ -35,8 +35,10 @@ function Scatter () {
                     </li>
                 </ul>
             </nav>
-            <ScatterChart>
-            </ScatterChart>
+            <ScatterChart
+                id="Single scatter"
+                dataPoints={{'data':dataPoints}}
+            ></ScatterChart>
         </>
     );
 }
