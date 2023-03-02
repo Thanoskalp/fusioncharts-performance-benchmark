@@ -13,7 +13,7 @@ ReactFC.fcRoot(FusionCharts, PowerCharts, FusionTheme);
 const HeatmapChart = (props) => {
     const [ isLoading, setIsLoading ] = useState(true);
     const customOptions = getOption();
-    customOptions.dataset.data = props.dataPoints.data;
+    customOptions.dataset[0].data = props.dataPoints.data;
     const startTime = new Date();
     console.log("Started loading at:", startTime, customOptions);
     useEffect(() => {

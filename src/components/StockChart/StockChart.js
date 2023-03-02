@@ -109,6 +109,8 @@ class StockChart extends React.Component {
         Promise.all([dataFetch, schemaFetch]).then(res => {
             const data = res[0];
             const schema = res[1];
+            console.log(data);
+            console.log(schema);
             const fusionTable = new FusionCharts.DataStore().createDataTable(
                 data,
                 schema

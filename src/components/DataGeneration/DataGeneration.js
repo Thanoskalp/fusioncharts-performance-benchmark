@@ -30,6 +30,17 @@ function DataGeneration() {
     //     dummyData.push(data);
     // }
 
+    // const data = [];
+    const startDate = new Date(2022, 1, 1);
+    const endDate = new Date(2022, 11, 31);
+    const categories = ['Grocery', 'Footwear'];
+
+    for (let i = 0; i < 300000; i++) {
+        const date = new Date(startDate.getTime() + Math.random() * (endDate.getTime() - startDate.getTime()));
+        const category = categories[Math.floor(Math.random() * categories.length)];
+        const amount = Math.floor(Math.random() * (9000 - 800 + 1)) + 800;
+        dummyData.push([date.toLocaleDateString('en-GB'), category, amount]);
+    }
 
     // Convert the dummy data to JSON
     const jsonData = JSON.stringify(dummyData, null, 2);
