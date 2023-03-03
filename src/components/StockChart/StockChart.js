@@ -1,18 +1,17 @@
-import React from "react";
+import React, {useEffect, useState} from "react";
 import FusionCharts from "fusioncharts";
+import Charts from "fusioncharts/fusioncharts.charts";
 import TimeSeries from "fusioncharts/fusioncharts.timeseries";
 import FusionTheme from "fusioncharts/themes/fusioncharts.theme.fusion";
 import ReactFC from "react-fusioncharts";
+import {getOption} from "../HeatmapChart/heatmap_options";
 
 ReactFC.fcRoot(FusionCharts, TimeSeries, FusionTheme);
+// ReactFC.fcRoot(FusionCharts, Charts, FusionTheme);
 
-const jsonify = res => res.json();
-const dataFetch = fetch(
-    "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/data/plotting-multiple-series-on-time-axis-data.json"
-).then(jsonify);
-const schemaFetch = fetch(
-    "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/schema/plotting-multiple-series-on-time-axis-schema.json"
-).then(jsonify);
+const dataFetch = require("./stock_data_1k.json");
+const schemaFetch = require("./stock_data_schema.json");
+
 
 class StockChart extends React.Component {
     constructor(props) {
@@ -106,6 +105,11 @@ class StockChart extends React.Component {
     }
 
     componentDidMount() {
+        const startTime = new Date();
+        console.log("Started loading at:", startTime);
+        const endTime = new Date();
+        console.log("Time elapsed for chart: is: ", endTime-startTime);
+
         Promise.all([dataFetch, schemaFetch]).then(res => {
             const data = res[0];
             const schema = res[1];

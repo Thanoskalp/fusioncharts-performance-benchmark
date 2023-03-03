@@ -1,5 +1,6 @@
 import './App.css';
 import { Outlet, Link } from "react-router-dom";
+import DataGeneration from "./components/DataGeneration";
 
 function App() {
   return (
@@ -13,6 +14,9 @@ function App() {
               <Link to="/heatmap">Heatmap charts</Link>
             </li>
             <li>
+              <Link to="/DataGeneration">DataGeneration charts</Link>
+            </li>
+            <li>
               <Link to="/scatter">Scatter charts</Link>
             </li>
             <li>
@@ -21,9 +25,6 @@ function App() {
             <li>
               <Link to="/stock">Stock Charts</Link>
             </li>
-            {/*<li>*/}
-            {/*  <Link to="/all">All charts</Link>*/}
-            {/*</li>*/}
           </ul>
         </nav>
         <Outlet />
