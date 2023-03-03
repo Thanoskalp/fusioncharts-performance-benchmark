@@ -6,7 +6,7 @@ export function getOption() {
             width: "100%",
             height: "400",
             dataSource: {
-                data: [],
+                data: null,
                 caption: {
                     text: "Sales Analysis"
                 },
